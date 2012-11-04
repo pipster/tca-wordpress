@@ -1,0 +1,86 @@
+@import "compass";
+@import "fonts";
+@import "bootstrap";
+@import "bootstrap-responsive"; 
+@import "ie";  
+@import "print";  
+@import "variables";
+@import "mixins";
+@import "main-nav";
+@import "dropdown.scss";
+@import "footer";
+@import "slideshow";
+
+/* ==========================================================================
+   TCA's custom styles
+   ========================================================================== */
+
+
+
+body {
+  font-family: $f_main;
+  font-size: 11px;
+  line-height: 1.1em;
+}
+
+a:hover {
+  color: $dark_gray;
+}
+
+header {
+  height: 160px;
+  padding-top: 50px;
+  .quoteImg {
+   
+  }
+  .logo {
+    
+  }
+}
+
+.contactInfo {
+  color: $light_gray;
+  font-size: 12px;
+  padding: 20px;
+  font-family: $f_quote;
+  letter-spacing: 2px;
+  line-height: 1.6em;
+  a {
+    text-decoration: underline;
+    color: $light_gray;
+  }
+}
+
+.clientList {
+  ul {
+    list-style-type: none;
+    li {
+      font-size: 14px;
+    }
+  }
+}
+ 
+strong {
+  color: dark_gray;
+}
+
+h2 {
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+  line-height: 20px;
+
+  a {
+  color: $yellow;
+  font-size: 14px;
+  text-transform: uppercase;
+  text-decoration: underline;
+  padding: 0;
+  margin: 0;
+  font-weight: normal;
+  }
+}
+
+.main a {
+  letter-spacing: 2px;
+}

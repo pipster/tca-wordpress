@@ -1,0 +1,769 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lorem",
+				"lorem	lorem - One sentence <p>"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"body-rep",
+				"background-repeat	zen:css_properties"
+			],
+			[
+				"Ar",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"conte",
+				"containerWidth"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"t",
+				"table-td-bg-gradient.jpg	w:30 h:30"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"s",
+				"shades-large.jpg	w:500 h:333"
+			],
+			[
+				"ci",
+				"cityDetail"
+			],
+			[
+				"es",
+				"es	empty script tags"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"se",
+				"selectedContinent"
+			],
+			[
+				"if",
+				"ife	if … else"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"project add",
+				"Project: Add Folder"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"git comm",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"projc",
+				"Project: Save As"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"snipf",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"projes",
+				"Project: Save As"
+			],
+			[
+				"packr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pe",
+				"Project: Edit"
+			],
+			[
+				"project A",
+				"Project: Add Folder"
+			],
+			[
+				"projecte",
+				"Project: Edit"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"packing",
+				"Package Control: Install Package"
+			],
+			[
+				"projedit",
+				"Project: Edit"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"projed",
+				"Project: Add Folder"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"synp",
+				"Set Syntax: PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"feth",
+				"Fetch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Tidy CSS"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"lo",
+				"Snippet: lorem - Medium paragraph"
+			],
+			[
+				"php",
+				"Format: Php"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"f",
+				"Fetch"
+			],
+			[
+				"fe",
+				"Fetch: Manage remote files"
+			],
+			[
+				"cha",
+				"ChangeQuotes"
+			],
+			[
+				"place",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"Bracket Highlighter: Fold by Brackets"
+			],
+			[
+				"b",
+				"Bracket Highlighter: Match Brackets"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"jsl",
+				"JSLint: Run JSLint"
+			],
+			[
+				"js",
+				"JSLint: Run JSLint"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"wrap-c",
+				"Snippet: wrap-code"
+			],
+			[
+				"wrap-",
+				"Snippet: wrap-code"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"pla",
+				"Snippet: table - Placeholder"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"FET",
+				"Fetch"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gis",
+				"Gist: Update File"
+			],
+			[
+				"gi",
+				"Gist: Open Gist"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Github: Public Gist from Selection"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/style.scss",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/index.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/awards.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/style.css",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/tca-wp-mac.sublime-project",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/HTML/fig-caption.sublime-snippet",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/basic-nav-bar.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/pill-nav.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/tabs-pills-navigation.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/next-previous.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/pagination.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/breadcrumbs.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/icons.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/custom-css.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/image-shapes.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/bootstrap-images.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/styling-buttons.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/states.php",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/definition-list.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/simple-list.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/blockquotes.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/thumbnail-gallery.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/typography-with-lead.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/css/bootstrap.css",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/hero-unit-centered.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/hero-unit.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/testing-width-of-screen.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/nesting-columns.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/no-content-offset.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/fluid-responsive-grid.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/fluid-offset.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/index.html",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/HTML/twitter-bootstrap-start.sublime-snippet",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Applications/MAMP/htdocs/week-04/name-result.php",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/assets/css/style.scss",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/assets/css/style.css",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/header.php",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/footer.php",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/sidebar.php",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/index.php",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/assets/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/assets/css/normalize.css",
+		"/Users/phowley/Desktop/vector-victor/styles/style.css",
+		"/Applications/MAMP/htdocs/week-03/11_lab_questions.html",
+		"/Applications/MAMP/htdocs/week-03/13_switch_color.php",
+		"/Applications/MAMP/htdocs/week-03/18-two-for-one.php",
+		"/Applications/MAMP/htdocs/week-03/10_lab_answer.php",
+		"/Applications/MAMP/htdocs/week-03/09_lab.html",
+		"/Applications/MAMP/htdocs/week-03/index.html",
+		"/Applications/MAMP/htdocs/week-03/my-fav-color.php",
+		"/Applications/MAMP/htdocs/week-03/color-form.html",
+		"/Users/phowley/Desktop/onepager/index.html",
+		"/Users/phowley/Desktop/onepager/styles/style.css",
+		"/Users/phowley/Desktop/onepager/styles/style.less",
+		"/Users/phowley/Desktop/onepager/test.less",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/database-kingluddite/bad-times.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/database-kingluddite/index.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/database-kingluddite/database-kingluddite.sublime-project",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/database-kingluddite/sftp-config.json",
+		"/Users/phowley/Dropbox/phil-stuff/database-kingluddite/index.html",
+		"/Users/phowley/Dropbox/phil-stuff/database-kingluddite/test.html",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/index.html",
+		"/Users/phowley/Desktop/junk/test.php",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/phowley/Desktop/test/test.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/assets/css/ocs-style.css",
+		"/Users/phowley/Documents/sublime-projects/ocs.sublime-project",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/assets/css/style.css",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/assets/js/script.js",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/functions.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/plugins/akismet/admin.php",
+		"/Users/phowley/Desktop/recipes/script.js",
+		"/Users/phowley/Desktop/Ex_Files_Node.js_FL/6 Frameworks/3 Listing Records/recipes/views/layout.ejs",
+		"/Users/phowley/Desktop/recipes/data/recipes.js",
+		"/Users/phowley/Desktop/tai-kwan-do/index.html",
+		"/Applications/MAMP/htdocs/fritters-wordpress/wp-content/themes/fritters/sidebar.php",
+		"/Applications/MAMP/htdocs/fritters-wordpress/wp-content/themes/fritters/index.php",
+		"/Applications/MAMP/htdocs/fritters-wordpress/wp-content/themes/fritters/header.php",
+		"/Applications/MAMP/htdocs/fritters-wordpress/wp-content/themes/fritters/style.css",
+		"/Applications/MAMP/htdocs/fritters-wordpress/wp-content/themes/fritters/assets/css/style.css",
+		"/Applications/MAMP/htdocs/fritters-wordpress/assets/css/style.css",
+		"/Applications/MAMP/htdocs/fritters-wordpress/basic/index.php",
+		"/Applications/MAMP/htdocs/fritters-wordpress/basic/header.php",
+		"/Applications/MAMP/htdocs/fritters-worpress/footer.php",
+		"/Applications/MAMP/htdocs/fritters-worpress/index.html",
+		"/Applications/MAMP/htdocs/fritters-worpress/index.php",
+		"/Applications/MAMP/htdocs/fritters-worpress/style.css",
+		"/Applications/MAMP/htdocs/fritters-worpress/assets/css/style.css",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/index.php",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/header.php",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/functions.php",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/page.php",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/assets/css/style.css",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/assets/css/dark.css",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/page-home.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/footer.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/functions.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/assets/js/script.js",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/page.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/sidebar.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/sidebar-contribute.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/page-contribute.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/assets/css/ocs-style.css",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/header.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/header.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/searchform.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/searchform.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/search.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/search.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/loop.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/loop.php",
+		"/Users/phowley/Desktop/mystiosa/wp-content/themes/mystiosa/assets/db/mystiosa.sql",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/page-educational.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/page-contribute.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/sidebar-enrollment.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/sidebar.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/assets/db/ocs.sql",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/style.css",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/page.php",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/header.php",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/functions.php",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/sidebar-about.php",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/page-about.php",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/sidebar.php",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/footer.php",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/plugins",
+			"/Users/phowley/Desktop/simple-wordpress",
+			"/Users/phowley/Dropbox/phil_stuff/schools/ai/class-web-site/learn-flash-bootstrap"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"media",
+			"span",
+			"article",
+			"stylesheet",
+			"<small>",
+			"regularInput",
+			"0c2745;",
+			"darkBlue",
+			"0c2745",
+			"assets",
+			";\n",
+			"#fff",
+			"aside",
+			"div",
+			"right:",
+			"#195f88",
+			"bullet",
+			"./",
+			"name",
+			"applications",
+			"jQuery",
+			"action",
+			"kingludd_ocs",
+			"http://ocswp.kingluddite.com",
+			"http://localhost:8888/mystiosa",
+			"http://localhost:8888/ocs",
+			"localhost",
+			"#navList",
+			"navlist",
+			"http://localhost:8888/tak\n        </div>\n      </header>",
+			"http://localhost/tak",
+			"404",
+			"navcontainer",
+			"element_4_5",
+			"element_4_4",
+			"element_4_3",
+			"element_3_3",
+			"element_3_2",
+			"element_3_1",
+			"element_3",
+			"element_2_3",
+			"element_2_2",
+			"element_2_1",
+			"element_2",
+			"element_1_2",
+			"element_1_1",
+			"email",
+			"Email",
+			"email",
+			"element_5",
+			"email",
+			"Email",
+			"email",
+			"element_6",
+			"element_5",
+			"’",
+			"‘",
+			"\"",
+			"label",
+			"`",
+			"http://localhost:8888/bhs&quot;",
+			"http://localhost:8888/bhs",
+			"http://localhost/bhs",
+			"http://localhost",
+			" </div>\n      </header></ul>\n        </div>\n      </header>\n        </div>",
+			"<li href=\"#homework\">Homework</li>",
+			"<li href=\"homework\">Homework</li></ul>",
+			"</ul>\n        </div>\n      </header>",
+			"<hr /><footer>",
+			"<hr><footer>",
+			"psd",
+			"h2",
+			"h3",
+			"site map",
+			"<section",
+			"h4",
+			"<section",
+			"section",
+			"<hr>",
+			"p",
+			"<p>",
+			"<hr>",
+			"step 5",
+			"conditions",
+			"<hr>",
+			"hr",
+			"section",
+			"userClickEvent",
+			"moreAboutFunctions",
+			"lectureFunctions",
+			"section",
+			"h3",
+			"section",
+			"image",
+			"iframe",
+			"dom",
+			"_",
+			"icon",
+			"frame",
+			"lecture",
+			"iframe",
+			"lecture",
+			"or can not",
+			"Note",
+			"pre",
+			"span4",
+			"h4",
+			"p>",
+			"strong",
+			"p>",
+			"p",
+			"<p>",
+			"5",
+			"4",
+			"#",
+			"../",
+			"cursor",
+			"Choice",
+			"div",
+			"paramOne",
+			"down",
+			"."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"http://localhost:8888/barrel-roll",
+			"http://mystiosa.kingluddite.com",
+			"http://localhost:8888/ocs-wordpress",
+			"http://localhost:8888/tak",
+			"http://localhost:8888/tak\n        </div>\n      </header>",
+			"'\n        </div>\n      </header>",
+			"</ul>\n        </div>\n      </header>",
+			"<li><a href=\"#homework\">Homework</a></li>\n        </div>\n      </header>",
+			"<li href=\"#homework\">Homework</li></ul>\n        </div>\n      </header>",
+			"<li href=\"homework\">Homework</li></ul>\n        </div>\n      </header>",
+			"<!-- #homework\n                  ================================================== -->\n            <section id=\"homework\">\n              <div class=\"page-heading\"> <h1>\n              Homework\n            </h1></div>\n            <div class=\"row\">\n              <div class=\"span6\"><p><strong>Reading Assignment</strong>\n              </p>\n              <ul>\n                <li>one\n                </li>\n                <li>two\n                </li>\n                <li>three\n                </li>\n              </ul>\n                </div>\n              <div class=\"span6\"><p><strong>Final Project</strong>\n              </p>\n              <p>Create a web site for an invention idea you have that will change the world for the better. The website layout should be created in Photoshop and imported into Flash.</p>\n              <p>The website should have the following inside it.</p>\n              <ul>\n                <li>Layers named and organized properly (actions top layer, labels second layer)</li>\n                <li>Sound on the buttons</li>\n                <li>Looping soundtrack that doesn't autoplay but plays when play button is pressed</li>\n                <li>Video</li>\n                <li>Transitions</li>\n                <li>Embedded font (include fonts you used with final project folder)</li>\n                <li>Site should also be updated to live site via FTP</li>\n                <li>Final site should be uploaded to ecompanion and Live URL provided in ecompanion text box.</li>\n                <li>Actions importing, images, videos, sounds and text</li>\n                <li>A form (does not need to work but must be created with static, input and dynamic text</li>\n                <li>All movie clips and buttons must have instance names.</li>\n                <li>The project is due Week 11 where you will present it to the class.</li>\n              </ul>\n            </div>\n            </div><!-- END .row -->\n          </section><!-- END #homework --><hr><footer>",
+			"-",
+			"#",
+			" <li><a href=\"week-01.html\">Week 01</a></li>\n              <li><a href=\"#week-01.html\">Week 02</a></li>\n              <li><a href=\"#week-01.html\">Week 03</a></li>\n              <li><a href=\"#week-01.html\">Week 04</a></li>\n              <li><a href=\"#week-01.html\">Week 05</a></li>\n              <li><a href=\"#week-01.html\">Week 06</a></li>\n              <li><a href=\"#week-01.html\">Week 07</a></li>\n              <li><a href=\"#week-01.html\">Week 08</a></li>\n              <li><a href=\"#week-01.html\">Week 09</a></li>\n              <li><a href=\"#week-01.html\">Week 10</a></li>\n              <li><a href=\"#week-01.html\">Week 11</a></li>",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 208.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 154.0
+	},
+	"replace":
+	{
+		"height": 87.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"header",
+				"wp-includes/theme-compat/header.php"
+			],
+			[
+				"",
+				"Lesson13/script.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"tw",
+				"/Users/phowley/Desktop/twitter-bootstrap-basics/twitter-bootstrap-basics.sublime-project"
+			],
+			[
+				"twi",
+				"/Users/phowley/Desktop/twitter-bootstrap-basics/twitter-bootstrap-basics.sublime-project"
+			],
+			[
+				"",
+				"/Users/phowley/Dropbox/phil_stuff/schools/ai/class-web-site/learn-actionscript-bootstrap/actionscript.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true
+}

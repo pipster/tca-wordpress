@@ -1,0 +1,14 @@
+   /* ==========================================================================
+      slideshow for full page bg images
+      ========================================================================== */
+      /* This will set the images width to span the entire page */
+      #slideshow, img.bgM {
+        min-height: 100%;
+        min-width: 1024px;
+        width: 100%;
+        height: auto;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index:-9999;
+}  

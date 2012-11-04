@@ -1,0 +1,41 @@
+.main a {
+  letter-spacing: 2px;
+}
+.navbar-inner {
+  border: none;
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+  border-radius: 0;
+-webkit-box-shadow: 0;
+-moz-box-shadow: 0;
+box-shadow: 0;
+}
+
+.navbar-inverse {
+  .navbar-inner {
+    background-image: none;
+    border: none;
+    background-color: $black;
+  }
+  .nav > li {
+    &.active {
+      a {
+        color: $yellow;
+        background-color: $black;
+        &:hover, &:focus {
+          color: $yellow;
+          background-color: $black; 
+        }
+      }
+
+    }
+    a {
+      @include nav_text;
+      &:hover, &:focus {
+        color: $yellow;
+        background-color: $black;
+      }
+    }
+  }
+  
+}

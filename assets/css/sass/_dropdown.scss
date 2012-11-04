@@ -1,0 +1,65 @@
+.dropdown-menu {
+  top: auto;
+  bottom: 100%;
+  border: none;
+  background-color: transparent;
+  box-shadow: none;
+  border-radius: 0;
+
+  li > a {
+    &:hover {
+      background-image: none;
+      color: $yellow;
+    }
+    &:focus {
+      background-image: none;
+    }
+  }
+  &.active > a {
+    color: $yellow;
+    background-image: none;
+    font-weight: bold;
+    &:hover {
+      color: $yellow;
+      background-image: none;
+      font-weight: bold;
+    }
+  }
+}
+.dropdown-menu .active > a, .dropdown-menu .active > a:hover {
+  background-image: none;
+}
+.navbar-inverse .nav > li.active a {
+  background-color: $white;
+  color: $light_gray;
+  &:hover, &:focus {
+      background-image: none;
+      background-color: transparent;
+      color: $yellow;
+    }
+}
+
+
+.nav li.dropdown .dropdown-menu li {
+  &.active a {
+    color: $yellow;
+    font-weight: bold;
+  }
+  a  {
+    color: $light_gray;
+    font-size: 12px;
+    text-transform: capitalize;
+    line-height: 1em;
+    font-family: $f_main;
+    letter-spacing: 0;
+  }
+}
+
+.navbar-inverse .nav li.dropdown.open > .dropdown-toggle, .navbar-inverse .nav li.dropdown.active > .dropdown-toggle, .navbar-inverse .nav li.dropdown.open.active > .dropdown-toggle {
+  color: $yellow;
+  background-color: transparent;
+}
+
+.navbar .nav > li > .dropdown-menu::before, .navbar .nav > li > .dropdown-menu::after {
+  display: none;
+}
