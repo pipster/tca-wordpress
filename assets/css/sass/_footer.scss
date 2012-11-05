@@ -1,19 +1,9 @@
 footer {
   color: $white;
-  position: relative;
-
-  .copyright {
-    position: absolute;
-    top: 10px;
-    right: 0;
-    font-size: 8px;
-  }
-  img {
-    padding: 0 30px;
-  }
-
-  .navbar-inner {
-    /* Firefox v3.6+ */
+  height: 120px;
+ 
+  
+  /* Firefox v3.6+ */
 background-image:-moz-linear-gradient(50% 0% -90deg,rgb(37,37,37) 0%,rgb(54,46,45) 100%); 
 /* safari v4.0+ and by Chrome v3.0+ */
 background-image:-webkit-gradient(linear,50% 0%,50% 100%,color-stop(0, rgb(37,37,37)),color-stop(1, rgb(54,46,45)));
@@ -27,14 +17,39 @@ background-image:linear-gradient(-90deg,rgb(37,37,37) 0%,rgb(54,46,45) 100%);
 height:30px;
 -ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff252525,endColorstr=#ff362e2d,GradientType=0)";
 filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff252525,endColorstr=#ff362e2d,GradientType=0);
-  }
-  .navbar .nav > li > a {
+   .nav {
+    margin-bottom: 0;
+   }
+   .nav > li {
+    float: left;
+    a {
     color: $white;
-    font-size: 10px;
-    line-height:180%;
-    text-shadow: none;
-    &:hover {
+    font-family: $f_fancy;
+    padding: 5px 0 5px 10px;
+    &:hover, &:active {
       color: $white;
-    } 
+      background-color: transparent;
+    }
+   }
+ }
+
+  .copyright {
+    font-size: 8px;
+    padding-top: 10px;
   }
+
+  .facebookIcon {
+    padding: 5px;
+  }
+
+ 
+  // .navbar .nav > li > a {
+  //   color: $white;
+  //   font-size: 10px;
+  //   line-height:180%;
+  //   text-shadow: none;
+  //   &:hover {
+  //     color: $white;
+  //   } 
+  // }
 }

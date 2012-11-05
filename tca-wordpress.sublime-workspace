@@ -1,0 +1,1111 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"nca-contact.png	w:170 h:115"
+			],
+			[
+				"lorem",
+				"lorem	lorem - One sentence <p>"
+			],
+			[
+				"bac",
+				"background-attachment"
+			],
+			[
+				"body-rep",
+				"background-repeat	zen:css_properties"
+			],
+			[
+				"Ar",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"conte",
+				"containerWidth"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"t",
+				"table-td-bg-gradient.jpg	w:30 h:30"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"s",
+				"shades-large.jpg	w:500 h:333"
+			],
+			[
+				"ci",
+				"cityDetail"
+			],
+			[
+				"es",
+				"es	empty script tags"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"se",
+				"selectedContinent"
+			],
+			[
+				"if",
+				"ife	if … else"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "awards.html",
+			"settings":
+			{
+				"buffer_size": 18460,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/sass/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 1499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<!--[if lt IE 7]>\n<html class=\"no-js lt-ie9 lt-ie8 lt-ie7\">\n    <![endif]-->\n    <!--[if IE 7]>\n    <html class=\"no-js lt-ie9 lt-ie8\">\n        <![endif]-->\n        <!--[if IE 8]>\n        <html class=\"no-js lt-ie9\">\n            <![endif]-->\n            <!--[if gt IE 8]>\n            <!-->\n            <html class=\"no-js\">\n                <!--<![endif]-->\n<head>\n                <link href='http://fonts.googleapis.com/css?family=Montserrat|Montserrat+Subrayada' rel='stylesheet' type='text/css'>\n                <meta charset=\"utf-8\">\n                <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n                <title></title>\n                <meta name=\"description\" content=\"Established in 1993, TCA is a corporate award-winning architectural firm recognized as a leader in the planning and design of housing environments throughout the western United States and overseas.\">\n                <meta name=\"viewport\" content=\"width=device-width\">\n                <link rel=\"stylesheet\" href=\"assets/css/style.css\">\n\n                <script src=\"assets/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js\"></script>\n</head>\n<body>\n                <div class=\"name\"></div>\n                <!--[if lt IE 7]>\n                <p class=\"chromeframe\">\n                    You are using an outdated browser.\n                    <a href=\"http://browsehappy.com/\">Upgrade your browser today</a>\n                    or\n                    <a href=\"http://www.google.com/chromeframe/?redirect=true\">install Google Chrome Frame</a>\n                    to better experience this site.\n                </p>\n                <![endif]-->\n\n                <!-- This code is taken from http://twitter.github.com/bootstrap/examples/hero.html -->\n                <div class=\"container\">\n                    <header class=\"row-fluid\">\n                        <div class=\"span3 offset9\">\n                            <a href=\"index.html\">\n                                <img class=\"logo\" src=\"assets/images/tca-logo.png\" height=\"138\" width=\"211\" alt=\"TCA Architects - Design for an intelligent world.\"></a>\n                        </div>\n                    </header>\n                    <!-- END header -->\n                    <div class=\"main navbar navbar-inverse clearfix\" style=\"margin-bottom: 0;\">\n                        <div class=\"navbar-inner\">\n                            <a class=\"btn btn-navbar\">\n                                <span class=\"icon-bar\"></span>\n                                <span class=\"icon-bar\"></span>\n                                <span class=\"icon-bar\"></span>\n                            </a>\n                            <!-- END (navicon) -->\n                            <div>\n                                <ul class=\"nav\">\n                                    <li class=\"dropdown\">\n                                        <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">About TCA</a>\n                                        <ul class=\"dropdown-menu\">\n                                            <li>\n                                                <a href=\"firm-people.html\">Firm Profile</a>\n                                            </li>\n                                            <li>\n                                                <a href=\"people.html\">People</a>\n                                            </li>\n                                            <li>\n                                                <a href=\"awards.html\">Awards</a>\n                                            </li>\n                                            <li>\n                                                <a href=\"clients.html\">Clients</a>\n                                            </li>\n                                        </ul>\n                                    </li>\n                                    <li>\n                                        <a href=\"portfolio.html\">Portfolio</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"sustainability.html\">Sustainability</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"highdef.html\">Highdef</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"news.html\">News</a>\n                                    </li>\n                                    <li class=\"active\">\n                                        <a href=\"contact.html\">Contact</a>\n                                    </li>\n                                </ul>\n                            </div>\n                            <!--/.nav-collapse --> </div>\n                        <!-- END .navbar-inner --> </div>\n                    <!-- END .navbar.navbar-inverse -->\n                    <div class=\"span12\">\n                        <div class=\"row-fluid\">\n                            <div class=\"span7\">\n                                <img src=\"assets/images/contact-woman-walking.png\" height=\"231\" width=\"673\" alt=\"woman walking in office\"></div>\n                            <div class=\"span5 contactInfo\">\n                                <p>\n                                    FOR NEW BUSINESS, MARKETING\n                                    <br>\n                                    MEDIA OR TO REQUEST A BROCHURE\n                                    <br>\n                                    PLEASE CONTACT Melissa Pastula\n                                    <br>\n                                    <a href=\"mailto:melissa@TCA-arch.com\">melissa@TCA-arch.com</a>\n                                </p>\n                                <p>\n                                    Careers at TCA see our\n                                    <a href=\"#\">Facebook</a>\n                                    Page\n                                </p>\n                            </div><!-- END .span5.contactInfo -->\n                        </div>\n                        <!-- END .row-fluid --> \n                        <div class=\"row-fluid\">\n                            <div class=\"span4\">\n                                <dl>\n                                    <dt><img src=\"assets/images/la-contact.png\" height=\"115\" width=\"150\" alt=\"LA\"> </dt>\n                                    <dt>\n                                        <address>                                        \n                                            801 South Grand Ave.\n                                            <br>\n                                            Suite 1020 \n                                            <br>                                      \n                                            <strong>Los Angeles, Ca</strong>\n                                            <br>\n                                            90017\n                                        </address>\n                                        <address>\n                                           <abbr title=\"Phone\"><strong>P 213 553 1100</strong></abbr>\n                                           <br>\n                                           <abbr title=\"Phone\"><strong>F 213 553 1111</strong></abbr> \n                                        </address>\n                                        <address>\n                                           <abbr title=\"Map\"><a href=\"#\">Map</a></abbr>\n                                        </address>\n                                    </dt>\n                                </dl>\n                            </div><!-- END .span4 -->\n                            <div class=\"span4\">\n                                <dl>\n                                    <dt><img src=\"assets/images/oc-contact.png\" height=\"115\" width=\"180\" alt=\"OC\"> </dt>\n                                    <dt>\n                                        <address>                                        \n                                            19782 Macarthur Blvd.\n                                            <br>\n                                            Suite 300\n                                            <br>                                      \n                                            <strong>Irvine, Ca</strong>\n                                            <br>\n                                            92612\n                                        </address>\n                                        <address>\n                                           <abbr title=\"Phone\">P 949 862 0270</abbr>\n                                           <br>\n                                           <abbr title=\"Phone\">F 949 862 0289</abbr> \n                                        </address>\n                                    </dt>\n                                </dl>\n                            </div><!-- END .span4 -->\n                            <div class=\"span4\">\n                                <dl>\n                                    <dt><img src=\"assets/images/nca-contact.png\" height=\"115\" width=\"170\" alt=\"Northern CA\"> </dt>\n                                    <dt>\n                                        <address>                                        \n                                            1111 Broadway\n                                            <br>\n                                            Suite 1650\n                                            <br>                                      \n                                            Oakland, Ca\n                                            <br>\n                                            94607\n                                        </address>\n                                        <address>\n                                           <abbr title=\"Phone\">P 555 555 1234</abbr>\n                                           <br> \n                                           <abbr title=\"Phone\">P 555 555 1235</abbr> \n                                        </address>\n                                    </dt>\n                                </dl>\n                            </div><!-- END .span4 -->\n                        </div><!-- END .row-fluid -->\n\n                    </div>\n                    <!-- END .span12 -->\n                    <footer class=\"span11 clearfix\">\n                        <div class=\"row-fluid\">\n                            <nav class=\"span4\">\n                                <ul class=\"nav\">\n                                    <li>\n                                        <a href=\"#\">About TCA</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Careers</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Contact TCA</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Site Map</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Privacy Policy</a>\n                                    </li>\n                                </ul>\n                            </nav>\n                            <!-- END .span4 -->\n                            <p class=\"copyright span4\">\n                                &#169; 2013 Thomas P. Cox: Architects, Inc. All rights reserved.\n                            </p>\n                            <!-- END .span4 -->\n                            <p class=\"facebookIcon span4\">\n                                <a href=\"#\">\n                                    <img src=\"assets/images/facebook-footer-button.png\" height=\"20\" width=\"130\" alt=\"Facebook - CONNECT WITH US\"></a>\n                            </p>\n                            <!-- END .span4 --> </div>\n                        <!-- END .row-fluid --> </footer>\n                    <!-- END footer --> </div>\n                <!-- END .container -->\n\n                <script src=\"http://code.jquery.com/jquery-latest.min.js\"></script>\n                <script>window.jQuery || document.write('<script src=\"assets/js/vendor/jquery-1.8.2.min.js\"><\\/script>')</script>\n            <script src=\"assets/js/vendor/jquery.cycle.lite.min.js\"></script>\n\n            <script src=\"assets/js/main.js\"></script>\n            <script src=\"assets/js/vendor/bootstrap.min.js\"></script>\n\n</body>\n        </html>",
+			"file": "contact.html",
+			"file_size": 12481,
+			"file_write_time": 1352090805000000,
+			"settings":
+			{
+				"buffer_size": 12532,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/sass/_dropdown.scss",
+			"settings":
+			{
+				"buffer_size": 1243,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tca-wordpress.sublime-project",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/sass/style.scss",
+			"settings":
+			{
+				"buffer_size": 1362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/sass/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 229,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/sass/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 109,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"project add",
+				"Project: Add Folder"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"git comm",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"projc",
+				"Project: Save As"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"snipf",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"projes",
+				"Project: Save As"
+			],
+			[
+				"packr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"pe",
+				"Project: Edit"
+			],
+			[
+				"project A",
+				"Project: Add Folder"
+			],
+			[
+				"projecte",
+				"Project: Edit"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"packing",
+				"Package Control: Install Package"
+			],
+			[
+				"projedit",
+				"Project: Edit"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"projed",
+				"Project: Add Folder"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"synp",
+				"Set Syntax: PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"feth",
+				"Fetch"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Tidy CSS"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"lo",
+				"Snippet: lorem - Medium paragraph"
+			],
+			[
+				"php",
+				"Format: Php"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"f",
+				"Fetch"
+			],
+			[
+				"fe",
+				"Fetch: Manage remote files"
+			],
+			[
+				"cha",
+				"ChangeQuotes"
+			],
+			[
+				"place",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"Bracket Highlighter: Fold by Brackets"
+			],
+			[
+				"b",
+				"Bracket Highlighter: Match Brackets"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"jsl",
+				"JSLint: Run JSLint"
+			],
+			[
+				"js",
+				"JSLint: Run JSLint"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"wrap-c",
+				"Snippet: wrap-code"
+			],
+			[
+				"wrap-",
+				"Snippet: wrap-code"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"pla",
+				"Snippet: table - Placeholder"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"FET",
+				"Fetch"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gis",
+				"Gist: Update File"
+			],
+			[
+				"gi",
+				"Gist: Open Gist"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Github: Public Gist from Selection"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/clients.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/css/sass/style.scss",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/contact.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/css/style.css",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/tca-wordpress/tca-wp-mac.sublime-project",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/style.scss",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/index.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/awards.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/style.css",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/tca-wp-mac.sublime-project",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/HTML/fig-caption.sublime-snippet",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/basic-nav-bar.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/pill-nav.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/tabs-pills-navigation.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/next-previous.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/pagination.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/breadcrumbs.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/icons.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/custom-css.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/image-shapes.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/bootstrap-images.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/styling-buttons.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/states.php",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/definition-list.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/simple-list.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/blockquotes.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/thumbnail-gallery.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/typography-with-lead.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/css/bootstrap.css",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/hero-unit-centered.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/hero-unit.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/testing-width-of-screen.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/nesting-columns.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/no-content-offset.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/fluid-responsive-grid.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/fluid-offset.html",
+		"/Users/phowley/Desktop/twitter-bootstrap-basics/index.html",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/HTML/twitter-bootstrap-start.sublime-snippet",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/Applications/MAMP/htdocs/week-04/name-result.php",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/assets/css/style.scss",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/assets/css/style.css",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/header.php",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/footer.php",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/sidebar.php",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/index.php",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/assets/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/bhs-nate-wp/wp-content/themes/bhs/assets/css/normalize.css",
+		"/Users/phowley/Desktop/vector-victor/styles/style.css",
+		"/Applications/MAMP/htdocs/week-03/11_lab_questions.html",
+		"/Applications/MAMP/htdocs/week-03/13_switch_color.php",
+		"/Applications/MAMP/htdocs/week-03/18-two-for-one.php",
+		"/Applications/MAMP/htdocs/week-03/10_lab_answer.php",
+		"/Applications/MAMP/htdocs/week-03/09_lab.html",
+		"/Applications/MAMP/htdocs/week-03/index.html",
+		"/Applications/MAMP/htdocs/week-03/my-fav-color.php",
+		"/Applications/MAMP/htdocs/week-03/color-form.html",
+		"/Users/phowley/Desktop/onepager/index.html",
+		"/Users/phowley/Desktop/onepager/styles/style.css",
+		"/Users/phowley/Desktop/onepager/styles/style.less",
+		"/Users/phowley/Desktop/onepager/test.less",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/database-kingluddite/bad-times.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/database-kingluddite/index.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/database-kingluddite/database-kingluddite.sublime-project",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/database-kingluddite/sftp-config.json",
+		"/Users/phowley/Dropbox/phil-stuff/database-kingluddite/index.html",
+		"/Users/phowley/Dropbox/phil-stuff/database-kingluddite/test.html",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/index.html",
+		"/Users/phowley/Desktop/junk/test.php",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/phowley/Desktop/test/test.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/assets/css/ocs-style.css",
+		"/Users/phowley/Documents/sublime-projects/ocs.sublime-project",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/assets/css/style.css",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/assets/js/script.js",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/functions.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/plugins/akismet/admin.php",
+		"/Users/phowley/Desktop/recipes/script.js",
+		"/Users/phowley/Desktop/Ex_Files_Node.js_FL/6 Frameworks/3 Listing Records/recipes/views/layout.ejs",
+		"/Users/phowley/Desktop/recipes/data/recipes.js",
+		"/Users/phowley/Desktop/tai-kwan-do/index.html",
+		"/Applications/MAMP/htdocs/fritters-wordpress/wp-content/themes/fritters/sidebar.php",
+		"/Applications/MAMP/htdocs/fritters-wordpress/wp-content/themes/fritters/index.php",
+		"/Applications/MAMP/htdocs/fritters-wordpress/wp-content/themes/fritters/header.php",
+		"/Applications/MAMP/htdocs/fritters-wordpress/wp-content/themes/fritters/style.css",
+		"/Applications/MAMP/htdocs/fritters-wordpress/wp-content/themes/fritters/assets/css/style.css",
+		"/Applications/MAMP/htdocs/fritters-wordpress/assets/css/style.css",
+		"/Applications/MAMP/htdocs/fritters-wordpress/basic/index.php",
+		"/Applications/MAMP/htdocs/fritters-wordpress/basic/header.php",
+		"/Applications/MAMP/htdocs/fritters-worpress/footer.php",
+		"/Applications/MAMP/htdocs/fritters-worpress/index.html",
+		"/Applications/MAMP/htdocs/fritters-worpress/index.php",
+		"/Applications/MAMP/htdocs/fritters-worpress/style.css",
+		"/Applications/MAMP/htdocs/fritters-worpress/assets/css/style.css",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/index.php",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/header.php",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/functions.php",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/page.php",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/assets/css/style.css",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/assets/css/dark.css",
+		"/Users/phowley/Desktop/tak/wp-content/themes/tak/page-home.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/footer.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/functions.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/assets/js/script.js",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/page.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/sidebar.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/sidebar-contribute.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/page-contribute.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/assets/css/ocs-style.css",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/header.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/header.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/searchform.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/searchform.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/search.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/search.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/loop.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/loop.php",
+		"/Users/phowley/Desktop/mystiosa/wp-content/themes/mystiosa/assets/db/mystiosa.sql",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/page-educational.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/page-contribute.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/sidebar-enrollment.php",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/sidebar.php",
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/assets/db/ocs.sql",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/style.css",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/page.php",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/header.php",
+		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/functions.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/plugins",
+			"/Users/phowley/Desktop/simple-wordpress",
+			"/Users/phowley/Dropbox/phil_stuff/schools/ai/class-web-site/learn-flash-bootstrap"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"media",
+			"span",
+			"article",
+			"stylesheet",
+			"<small>",
+			"regularInput",
+			"0c2745;",
+			"darkBlue",
+			"0c2745",
+			"assets",
+			";\n",
+			"#fff",
+			"aside",
+			"div",
+			"right:",
+			"#195f88",
+			"bullet",
+			"./",
+			"name",
+			"applications",
+			"jQuery",
+			"action",
+			"kingludd_ocs",
+			"http://ocswp.kingluddite.com",
+			"http://localhost:8888/mystiosa",
+			"http://localhost:8888/ocs",
+			"localhost",
+			"#navList",
+			"navlist",
+			"http://localhost:8888/tak\n        </div>\n      </header>",
+			"http://localhost/tak",
+			"404",
+			"navcontainer",
+			"element_4_5",
+			"element_4_4",
+			"element_4_3",
+			"element_3_3",
+			"element_3_2",
+			"element_3_1",
+			"element_3",
+			"element_2_3",
+			"element_2_2",
+			"element_2_1",
+			"element_2",
+			"element_1_2",
+			"element_1_1",
+			"email",
+			"Email",
+			"email",
+			"element_5",
+			"email",
+			"Email",
+			"email",
+			"element_6",
+			"element_5",
+			"’",
+			"‘",
+			"\"",
+			"label",
+			"`",
+			"http://localhost:8888/bhs&quot;",
+			"http://localhost:8888/bhs",
+			"http://localhost/bhs",
+			"http://localhost",
+			" </div>\n      </header></ul>\n        </div>\n      </header>\n        </div>",
+			"<li href=\"#homework\">Homework</li>",
+			"<li href=\"homework\">Homework</li></ul>",
+			"</ul>\n        </div>\n      </header>",
+			"<hr /><footer>",
+			"<hr><footer>",
+			"psd",
+			"h2",
+			"h3",
+			"site map",
+			"<section",
+			"h4",
+			"<section",
+			"section",
+			"<hr>",
+			"p",
+			"<p>",
+			"<hr>",
+			"step 5",
+			"conditions",
+			"<hr>",
+			"hr",
+			"section",
+			"userClickEvent",
+			"moreAboutFunctions",
+			"lectureFunctions",
+			"section",
+			"h3",
+			"section",
+			"image",
+			"iframe",
+			"dom",
+			"_",
+			"icon",
+			"frame",
+			"lecture",
+			"iframe",
+			"lecture",
+			"or can not",
+			"Note",
+			"pre",
+			"span4",
+			"h4",
+			"p>",
+			"strong",
+			"p>",
+			"p",
+			"<p>",
+			"5",
+			"4",
+			"#",
+			"../",
+			"cursor",
+			"Choice",
+			"div",
+			"paramOne",
+			"down",
+			"."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"http://localhost:8888/barrel-roll",
+			"http://mystiosa.kingluddite.com",
+			"http://localhost:8888/ocs-wordpress",
+			"http://localhost:8888/tak",
+			"http://localhost:8888/tak\n        </div>\n      </header>",
+			"'\n        </div>\n      </header>",
+			"</ul>\n        </div>\n      </header>",
+			"<li><a href=\"#homework\">Homework</a></li>\n        </div>\n      </header>",
+			"<li href=\"#homework\">Homework</li></ul>\n        </div>\n      </header>",
+			"<li href=\"homework\">Homework</li></ul>\n        </div>\n      </header>",
+			"<!-- #homework\n                  ================================================== -->\n            <section id=\"homework\">\n              <div class=\"page-heading\"> <h1>\n              Homework\n            </h1></div>\n            <div class=\"row\">\n              <div class=\"span6\"><p><strong>Reading Assignment</strong>\n              </p>\n              <ul>\n                <li>one\n                </li>\n                <li>two\n                </li>\n                <li>three\n                </li>\n              </ul>\n                </div>\n              <div class=\"span6\"><p><strong>Final Project</strong>\n              </p>\n              <p>Create a web site for an invention idea you have that will change the world for the better. The website layout should be created in Photoshop and imported into Flash.</p>\n              <p>The website should have the following inside it.</p>\n              <ul>\n                <li>Layers named and organized properly (actions top layer, labels second layer)</li>\n                <li>Sound on the buttons</li>\n                <li>Looping soundtrack that doesn't autoplay but plays when play button is pressed</li>\n                <li>Video</li>\n                <li>Transitions</li>\n                <li>Embedded font (include fonts you used with final project folder)</li>\n                <li>Site should also be updated to live site via FTP</li>\n                <li>Final site should be uploaded to ecompanion and Live URL provided in ecompanion text box.</li>\n                <li>Actions importing, images, videos, sounds and text</li>\n                <li>A form (does not need to work but must be created with static, input and dynamic text</li>\n                <li>All movie clips and buttons must have instance names.</li>\n                <li>The project is due Week 11 where you will present it to the class.</li>\n              </ul>\n            </div>\n            </div><!-- END .row -->\n          </section><!-- END #homework --><hr><footer>",
+			"-",
+			"#",
+			" <li><a href=\"week-01.html\">Week 01</a></li>\n              <li><a href=\"#week-01.html\">Week 02</a></li>\n              <li><a href=\"#week-01.html\">Week 03</a></li>\n              <li><a href=\"#week-01.html\">Week 04</a></li>\n              <li><a href=\"#week-01.html\">Week 05</a></li>\n              <li><a href=\"#week-01.html\">Week 06</a></li>\n              <li><a href=\"#week-01.html\">Week 07</a></li>\n              <li><a href=\"#week-01.html\">Week 08</a></li>\n              <li><a href=\"#week-01.html\">Week 09</a></li>\n              <li><a href=\"#week-01.html\">Week 10</a></li>\n              <li><a href=\"#week-01.html\">Week 11</a></li>",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "awards.html",
+					"settings":
+					{
+						"buffer_size": 18460,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17761,
+								17761
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5900.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/sass/_footer.scss",
+					"settings":
+					{
+						"buffer_size": 1499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1091,
+								1091
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 1.0,
+						"translation.y": 295.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "contact.html",
+					"settings":
+					{
+						"buffer_size": 12532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8580,
+								8594
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_xml": false,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3038.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/css/sass/_dropdown.scss",
+					"settings":
+					{
+						"buffer_size": 1243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								672,
+								672
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 377.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "tca-wordpress.sublime-project",
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								197
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/css/sass/style.scss",
+					"settings":
+					{
+						"buffer_size": 1362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								559,
+								559
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 292.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "assets/css/sass/_variables.scss",
+					"settings":
+					{
+						"buffer_size": 229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "assets/css/sass/_mixins.scss",
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 208.0
+	},
+	"output.git":
+	{
+		"height": 95.0
+	},
+	"output.sftp":
+	{
+		"height": 154.0
+	},
+	"replace":
+	{
+		"height": 87.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tca",
+				"tca-wordpress.sublime-project"
+			],
+			[
+				"drop",
+				"assets/css/sass/_dropdown.scss"
+			],
+			[
+				"conta",
+				"contact.html"
+			],
+			[
+				"_footer",
+				"assets/css/sass/_footer.scss"
+			],
+			[
+				"cont",
+				"contact.html"
+			],
+			[
+				"awa",
+				"awards.html"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"header",
+				"wp-includes/theme-compat/header.php"
+			],
+			[
+				"",
+				"Lesson13/script.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"tw",
+				"/Users/phowley/Desktop/twitter-bootstrap-basics/twitter-bootstrap-basics.sublime-project"
+			],
+			[
+				"twi",
+				"/Users/phowley/Desktop/twitter-bootstrap-basics/twitter-bootstrap-basics.sublime-project"
+			],
+			[
+				"",
+				"/Users/phowley/Dropbox/phil_stuff/schools/ai/class-web-site/learn-actionscript-bootstrap/actionscript.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true
+}
