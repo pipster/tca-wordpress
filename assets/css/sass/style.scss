@@ -15,12 +15,28 @@
    TCA's custom styles
    ========================================================================== */
 
-
-
 body {
   font-family: $f_main;
   font-size: 11px;
   line-height: 1.1em;
+}
+dl {
+  color: $black; 
+  strong {
+    font-family: $f_fancy_bold;
+  }
+  address {
+    font-family: $f_fancy;
+  }
+  dt {
+    font-weight: normal;
+    font-family: $f_fancy;
+    font-size: 12px;
+    letter-spacing: 2px;
+  }
+  a {
+    color: $black;
+  }
 }
 
 a:hover {
@@ -30,19 +46,13 @@ a:hover {
 header {
   height: 160px;
   padding-top: 50px;
-  .quoteImg {
-   
-  }
-  .logo {
-    
-  }
 }
 
 .contactInfo {
   color: $light_gray;
   font-size: 12px;
   padding: 20px;
-  font-family: $f_quote;
+  font-family: $f_fancy;
   letter-spacing: 2px;
   line-height: 1.6em;
   a {
@@ -61,7 +71,7 @@ header {
 }
  
 strong {
-  color: dark_gray;
+  color: $dark_gray;
 }
 
 h2 {
