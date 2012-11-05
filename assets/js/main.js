@@ -9,8 +9,8 @@ $(document).ready(function() {
 		// choose your transition type, ex: fade, scrollUp, shuffle, etc...
 		pager: '#smallnav',
 		pause: 1,
-		speed: 3600,
-		timeout: 3500
+		speed: 2000,
+		timeout: 2000
 	});
 });
 

@@ -12,7 +12,25 @@
         <meta name="viewport" content="width=device-width">
         
         <link rel="stylesheet" href="assets/css/style.css">
-
+<style rel="stylesheet">
+#slideshow {
+    position:fixed; 
+    top:-50%; 
+    left:-50%; 
+    width:200%; 
+    height:200%;
+}
+#slideshow .bgM {
+    position:absolute; 
+    top:0; 
+    left:0; 
+    right:0; 
+    bottom:0; 
+    margin:auto; 
+    min-width:50%;
+    min-height:50%;
+}
+</style>
         <script src="assets/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js"></script>
     </head>
     <body>
@@ -47,25 +65,62 @@
     <img src="assets/images/westgate.jpg" class="bgM" height="800" width="1080" alt="Westgate"> 
     <img src="assets/images/wilshire-5550.jpg" class="bgM" height="800" width="1080" alt="Wilshire 5550">
 </div><!-- END #slideshow -->
-<img class="logo" src="assets/images/tca-logo.png" height="138" width="211" alt="TCA Architects - Design for an intelligent world.">
-<div class="navbar navbar-inverse navbar-fixed-top">
-            <div class="navbar-inner">
-                <div class="container span12">
-                    <div>
-                        <ul class="nav">
-                            <li class="active"><a href="#">Home</a></li>
-                            <li><a href="#">About TCA</a></li>
-                            <li><a href="#">Portfolio</a></li>
-                            <li><a href="#">Sustainability</a></li>
-                            <li><a href="#">Highdef</a></li>
-                            <li><a href="#">News</a></li>
-                            <li><a href="#">Contact</a></li>
-                        </ul>
-                    </div><!--/.nav-collapse -->
-                </div>
-            </div>
-        </div>
-
+<div class="container">
+                    <header class="row-fluid">
+                        <div class="span3 offset9">
+                            <a href="index.html">
+                                <img class="logo" src="assets/images/tca-logo.png" height="138" width="211" alt="TCA Architects - Design for an intelligent world."></a>
+                        </div>
+                    </header>
+                    <!-- END header -->
+                    <div class="main navbar navbar-inverse clearfix" style="margin-bottom: 0;">
+                        <div class="navbar-inner">
+                            <a class="btn btn-navbar">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </a>
+                            <!-- END (navicon) -->
+                            <div>
+                                <ul class="nav">
+                                    <li class="dropdown">
+                                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">About TCA</a>
+                                        <ul class="dropdown-menu">
+                                            <li>
+                                                <a href="firm-people.html">Firm Profile</a>
+                                            </li>
+                                            <li>
+                                                <a href="people.html">People</a>
+                                            </li>
+                                            <li>
+                                                <a href="awards.html">Awards</a>
+                                            </li>
+                                            <li>
+                                                <a href="clients.html">Clients</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="portfolio.html">Portfolio</a>
+                                    </li>
+                                    <li>
+                                        <a href="sustainability.html">Sustainability</a>
+                                    </li>
+                                    <li>
+                                        <a href="highdef.html">Highdef</a>
+                                    </li>
+                                    <li>
+                                        <a href="news.html">News</a>
+                                    </li>
+                                    <li>
+                                        <a href="contact.html">Contact</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!--/.nav-collapse --> </div>
+                        <!-- END .navbar-inner --> </div>
+                    <!-- END .navbar.navbar-inverse -->
+</div><!-- END .container -->
         <script src="http://code.jquery.com/jquery-latest.min.js"></script>
         <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-1.8.2.min.js"><\/script>')</script>
 <script src="assets/js/vendor/jquery.cycle.lite.min.js"></script>
