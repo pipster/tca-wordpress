@@ -2,7 +2,6 @@ footer {
   color: $white;
   height: 120px;
  
-  
   /* Firefox v3.6+ */
 background-image:-moz-linear-gradient(50% 0% -90deg,rgb(37,37,37) 0%,rgb(54,46,45) 100%); 
 /* safari v4.0+ and by Chrome v3.0+ */
@@ -24,7 +23,7 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff252525,endCol
     float: left;
     a {
     color: $white;
-    font-family: $f_fancy;
+    font-family: $f_main;
     padding: 5px 0 5px 10px;
     &:hover, &:active {
       color: $white;
@@ -35,21 +34,12 @@ filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff252525,endCol
 
   .copyright {
     font-size: 8px;
-    padding-top: 10px;
+    padding-top: 6px;
   }
 
   .facebookIcon {
     padding: 5px;
+    right: 0;
   }
 
- 
-  // .navbar .nav > li > a {
-  //   color: $white;
-  //   font-size: 10px;
-  //   line-height:180%;
-  //   text-shadow: none;
-  //   &:hover {
-  //     color: $white;
-  //   } 
-  // }
 }

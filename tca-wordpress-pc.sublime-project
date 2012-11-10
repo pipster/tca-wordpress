@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"path": "/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wordpress",
+	"name": "TCAa Wordpress",
+         "file_exclude_patterns":[
+            "apple*",
+            "*.psd",
+            "*.ico",
+            "crossdomain.xml",
+            "humans.txt",
+            "robots.txt",
+            "*-workspace"
+         ],
+         "folder_exclude_patterns": [
+            "images",
+            ".sass-cache",
+            "web-fonts"
+         ]
+		}
+	]
+}

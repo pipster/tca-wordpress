@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"co",
+				"thom-cox.jpg	w:662 h:265"
+			],
+			[
 				"ca",
 				"nca-contact.png	w:170 h:115"
 			],
@@ -67,80 +71,21 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "awards.html",
-			"settings":
-			{
-				"buffer_size": 18460,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/css/sass/_footer.scss",
-			"settings":
-			{
-				"buffer_size": 1499,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<!DOCTYPE html>\n<!--[if lt IE 7]>\n<html class=\"no-js lt-ie9 lt-ie8 lt-ie7\">\n    <![endif]-->\n    <!--[if IE 7]>\n    <html class=\"no-js lt-ie9 lt-ie8\">\n        <![endif]-->\n        <!--[if IE 8]>\n        <html class=\"no-js lt-ie9\">\n            <![endif]-->\n            <!--[if gt IE 8]>\n            <!-->\n            <html class=\"no-js\">\n                <!--<![endif]-->\n<head>\n                <link href='http://fonts.googleapis.com/css?family=Montserrat|Montserrat+Subrayada' rel='stylesheet' type='text/css'>\n                <meta charset=\"utf-8\">\n                <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n                <title></title>\n                <meta name=\"description\" content=\"Established in 1993, TCA is a corporate award-winning architectural firm recognized as a leader in the planning and design of housing environments throughout the western United States and overseas.\">\n                <meta name=\"viewport\" content=\"width=device-width\">\n                <link rel=\"stylesheet\" href=\"assets/css/style.css\">\n\n                <script src=\"assets/js/vendor/modernizr-2.6.1-respond-1.1.0.min.js\"></script>\n</head>\n<body>\n                <div class=\"name\"></div>\n                <!--[if lt IE 7]>\n                <p class=\"chromeframe\">\n                    You are using an outdated browser.\n                    <a href=\"http://browsehappy.com/\">Upgrade your browser today</a>\n                    or\n                    <a href=\"http://www.google.com/chromeframe/?redirect=true\">install Google Chrome Frame</a>\n                    to better experience this site.\n                </p>\n                <![endif]-->\n\n                <!-- This code is taken from http://twitter.github.com/bootstrap/examples/hero.html -->\n                <div class=\"container\">\n                    <header class=\"row-fluid\">\n                        <div class=\"span3 offset9\">\n                            <a href=\"index.html\">\n                                <img class=\"logo\" src=\"assets/images/tca-logo.png\" height=\"138\" width=\"211\" alt=\"TCA Architects - Design for an intelligent world.\"></a>\n                        </div>\n                    </header>\n                    <!-- END header -->\n                    <div class=\"main navbar navbar-inverse clearfix\" style=\"margin-bottom: 0;\">\n                        <div class=\"navbar-inner\">\n                            <a class=\"btn btn-navbar\">\n                                <span class=\"icon-bar\"></span>\n                                <span class=\"icon-bar\"></span>\n                                <span class=\"icon-bar\"></span>\n                            </a>\n                            <!-- END (navicon) -->\n                            <div>\n                                <ul class=\"nav\">\n                                    <li class=\"dropdown\">\n                                        <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">About TCA</a>\n                                        <ul class=\"dropdown-menu\">\n                                            <li>\n                                                <a href=\"firm-people.html\">Firm Profile</a>\n                                            </li>\n                                            <li>\n                                                <a href=\"people.html\">People</a>\n                                            </li>\n                                            <li>\n                                                <a href=\"awards.html\">Awards</a>\n                                            </li>\n                                            <li>\n                                                <a href=\"clients.html\">Clients</a>\n                                            </li>\n                                        </ul>\n                                    </li>\n                                    <li>\n                                        <a href=\"portfolio.html\">Portfolio</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"sustainability.html\">Sustainability</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"highdef.html\">Highdef</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"news.html\">News</a>\n                                    </li>\n                                    <li class=\"active\">\n                                        <a href=\"contact.html\">Contact</a>\n                                    </li>\n                                </ul>\n                            </div>\n                            <!--/.nav-collapse --> </div>\n                        <!-- END .navbar-inner --> </div>\n                    <!-- END .navbar.navbar-inverse -->\n                    <div class=\"span12\">\n                        <div class=\"row-fluid\">\n                            <div class=\"span7\">\n                                <img src=\"assets/images/contact-woman-walking.png\" height=\"231\" width=\"673\" alt=\"woman walking in office\"></div>\n                            <div class=\"span5 contactInfo\">\n                                <p>\n                                    FOR NEW BUSINESS, MARKETING\n                                    <br>\n                                    MEDIA OR TO REQUEST A BROCHURE\n                                    <br>\n                                    PLEASE CONTACT Melissa Pastula\n                                    <br>\n                                    <a href=\"mailto:melissa@TCA-arch.com\">melissa@TCA-arch.com</a>\n                                </p>\n                                <p>\n                                    Careers at TCA see our\n                                    <a href=\"#\">Facebook</a>\n                                    Page\n                                </p>\n                            </div><!-- END .span5.contactInfo -->\n                        </div>\n                        <!-- END .row-fluid --> \n                        <div class=\"row-fluid\">\n                            <div class=\"span4\">\n                                <dl>\n                                    <dt><img src=\"assets/images/la-contact.png\" height=\"115\" width=\"150\" alt=\"LA\"> </dt>\n                                    <dt>\n                                        <address>                                        \n                                            801 South Grand Ave.\n                                            <br>\n                                            Suite 1020 \n                                            <br>                                      \n                                            <strong>Los Angeles, Ca</strong>\n                                            <br>\n                                            90017\n                                        </address>\n                                        <address>\n                                           <abbr title=\"Phone\"><strong>P 213 553 1100</strong></abbr>\n                                           <br>\n                                           <abbr title=\"Phone\"><strong>F 213 553 1111</strong></abbr> \n                                        </address>\n                                        <address>\n                                           <abbr title=\"Map\"><a href=\"#\">Map</a></abbr>\n                                        </address>\n                                    </dt>\n                                </dl>\n                            </div><!-- END .span4 -->\n                            <div class=\"span4\">\n                                <dl>\n                                    <dt><img src=\"assets/images/oc-contact.png\" height=\"115\" width=\"180\" alt=\"OC\"> </dt>\n                                    <dt>\n                                        <address>                                        \n                                            19782 Macarthur Blvd.\n                                            <br>\n                                            Suite 300\n                                            <br>                                      \n                                            <strong>Irvine, Ca</strong>\n                                            <br>\n                                            92612\n                                        </address>\n                                        <address>\n                                           <abbr title=\"Phone\">P 949 862 0270</abbr>\n                                           <br>\n                                           <abbr title=\"Phone\">F 949 862 0289</abbr> \n                                        </address>\n                                    </dt>\n                                </dl>\n                            </div><!-- END .span4 -->\n                            <div class=\"span4\">\n                                <dl>\n                                    <dt><img src=\"assets/images/nca-contact.png\" height=\"115\" width=\"170\" alt=\"Northern CA\"> </dt>\n                                    <dt>\n                                        <address>                                        \n                                            1111 Broadway\n                                            <br>\n                                            Suite 1650\n                                            <br>                                      \n                                            Oakland, Ca\n                                            <br>\n                                            94607\n                                        </address>\n                                        <address>\n                                           <abbr title=\"Phone\">P 555 555 1234</abbr>\n                                           <br> \n                                           <abbr title=\"Phone\">P 555 555 1235</abbr> \n                                        </address>\n                                    </dt>\n                                </dl>\n                            </div><!-- END .span4 -->\n                        </div><!-- END .row-fluid -->\n\n                    </div>\n                    <!-- END .span12 -->\n                    <footer class=\"span11 clearfix\">\n                        <div class=\"row-fluid\">\n                            <nav class=\"span4\">\n                                <ul class=\"nav\">\n                                    <li>\n                                        <a href=\"#\">About TCA</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Careers</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Contact TCA</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Site Map</a>\n                                    </li>\n                                    <li>\n                                        <a href=\"#\">Privacy Policy</a>\n                                    </li>\n                                </ul>\n                            </nav>\n                            <!-- END .span4 -->\n                            <p class=\"copyright span4\">\n                                &#169; 2013 Thomas P. Cox: Architects, Inc. All rights reserved.\n                            </p>\n                            <!-- END .span4 -->\n                            <p class=\"facebookIcon span4\">\n                                <a href=\"#\">\n                                    <img src=\"assets/images/facebook-footer-button.png\" height=\"20\" width=\"130\" alt=\"Facebook - CONNECT WITH US\"></a>\n                            </p>\n                            <!-- END .span4 --> </div>\n                        <!-- END .row-fluid --> </footer>\n                    <!-- END footer --> </div>\n                <!-- END .container -->\n\n                <script src=\"http://code.jquery.com/jquery-latest.min.js\"></script>\n                <script>window.jQuery || document.write('<script src=\"assets/js/vendor/jquery-1.8.2.min.js\"><\\/script>')</script>\n            <script src=\"assets/js/vendor/jquery.cycle.lite.min.js\"></script>\n\n            <script src=\"assets/js/main.js\"></script>\n            <script src=\"assets/js/vendor/bootstrap.min.js\"></script>\n\n</body>\n        </html>",
-			"file": "contact.html",
-			"file_size": 12481,
-			"file_write_time": 1352090805000000,
-			"settings":
-			{
-				"buffer_size": 12532,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/css/sass/_dropdown.scss",
-			"settings":
-			{
-				"buffer_size": 1243,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "tca-wordpress.sublime-project",
-			"settings":
-			{
-				"buffer_size": 470,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/css/sass/style.scss",
-			"settings":
-			{
-				"buffer_size": 1362,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/css/sass/_variables.scss",
-			"settings":
-			{
-				"buffer_size": 229,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/css/sass/_mixins.scss",
-			"settings":
-			{
-				"buffer_size": 109,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 107.0,
 		"selected_items":
 		[
+			[
+				"proje",
+				"Project: Add Folder"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
 			[
 				"tidy",
 				"Tidy HTML"
@@ -162,20 +107,12 @@
 				"Project: Add Folder"
 			],
 			[
-				"packin",
-				"Package Control: Install Package"
-			],
-			[
 				"pro",
 				"Project: Add Folder"
 			],
 			[
 				"fetch",
 				"Fetch: Package"
-			],
-			[
-				"proje",
-				"Project: Save As"
 			],
 			[
 				"fet",
@@ -418,7 +355,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 476.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -435,9 +372,22 @@
 	},
 	"file_history":
 	[
-		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/clients.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/about-people.html",
 		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/css/sass/style.scss",
+		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/graphic-design.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/thom-cox.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/css/sass/_variables.scss",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/awards.html",
 		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/contact.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/index.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/clients.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/test.html",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/js/main.js",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/css/sass/_mixins.scss",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/tca-wordpress.sublime-project",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/css/sass/_dropdown.scss",
+		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/css/sass/_footer.scss",
 		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/css/style.css",
 		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/tca-wordpress/tca-wp-mac.sublime-project",
 		"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/style.scss",
@@ -505,7 +455,6 @@
 		"/Users/phowley/Dropbox/phil-stuff/database-kingluddite/test.html",
 		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/index.html",
 		"/Users/phowley/Desktop/junk/test.php",
-		"/Users/phowley/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/phowley/Desktop/test/test.php",
 		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/assets/css/ocs-style.css",
 		"/Users/phowley/Documents/sublime-projects/ocs.sublime-project",
@@ -550,19 +499,7 @@
 		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/searchform.php",
 		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/searchform.php",
 		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/search.php",
-		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/search.php",
-		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/loop.php",
-		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/loop.php",
-		"/Users/phowley/Desktop/mystiosa/wp-content/themes/mystiosa/assets/db/mystiosa.sql",
-		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/page-educational.php",
-		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/page-contribute.php",
-		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/sidebar-enrollment.php",
-		"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/themes/ocs/sidebar.php",
-		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/assets/db/ocs.sql",
-		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/style.css",
-		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/page.php",
-		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/header.php",
-		"/Applications/MAMP/htdocs/usa/wp-content/themes/usa/functions.php"
+		"/Applications/MAMP/htdocs/ocs-wordpress/wp-content/themes/ocs/search.php"
 	],
 	"find":
 	{
@@ -573,6 +510,7 @@
 		"height": 0.0,
 		"where_history":
 		[
+			"/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress",
 			"/Users/phowley/Dropbox/phil-stuff/my-sites/ocs-wordpress/wp-content/plugins",
 			"/Users/phowley/Desktop/simple-wordpress",
 			"/Users/phowley/Dropbox/phil_stuff/schools/ai/class-web-site/learn-flash-bootstrap"
@@ -583,6 +521,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<h3>",
+			"h3",
+			"full",
+			"extendfull",
+			" <li>\n                                        <a href=\"portfolio.html\">Portfolio</a>\n                                    </li>",
+			">Map",
 			";\n",
 			"media",
 			"span",
@@ -704,8 +648,7 @@
 			"Choice",
 			"div",
 			"paramOne",
-			"down",
-			"."
+			"down"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -739,254 +682,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "awards.html",
-					"settings":
-					{
-						"buffer_size": 18460,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								17761,
-								17761
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"is_xml": false,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5900.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "assets/css/sass/_footer.scss",
-					"settings":
-					{
-						"buffer_size": 1499,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1091,
-								1091
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 1.0,
-						"translation.y": 295.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "contact.html",
-					"settings":
-					{
-						"buffer_size": 12532,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8580,
-								8594
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"is_xml": false,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3038.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "assets/css/sass/_dropdown.scss",
-					"settings":
-					{
-						"buffer_size": 1243,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								672,
-								672
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 377.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "tca-wordpress.sublime-project",
-					"settings":
-					{
-						"buffer_size": 470,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								197,
-								197
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "assets/css/sass/style.scss",
-					"settings":
-					{
-						"buffer_size": 1362,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								559,
-								559
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 292.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "assets/css/sass/_variables.scss",
-					"settings":
-					{
-						"buffer_size": 229,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								182,
-								182
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "assets/css/sass/_mixins.scss",
-					"settings":
-					{
-						"buffer_size": 109,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								42,
-								42
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1044,6 +741,22 @@
 		"selected_items":
 		[
 			[
+				"thom",
+				"thom-cox.html"
+			],
+			[
+				"var",
+				"assets/css/sass/_variables.scss"
+			],
+			[
+				"style",
+				"assets/css/sass/style.scss"
+			],
+			[
+				"awar",
+				"awards.html"
+			],
+			[
 				"tca",
 				"tca-wordpress.sublime-project"
 			],
@@ -1088,16 +801,24 @@
 		"selected_items":
 		[
 			[
+				"",
+				"/Users/phowley/Desktop/twitter-bootstrap-basics/twitter-bootstrap-basics.sublime-project"
+			],
+			[
+				"boot",
+				"/Users/phowley/Desktop/bootstrap/bootstrap.sublime-project"
+			],
+			[
+				"boo",
+				"/Users/phowley/Desktop/twitter-bootstrap-basics/twitter-bootstrap-basics.sublime-project"
+			],
+			[
 				"tw",
 				"/Users/phowley/Desktop/twitter-bootstrap-basics/twitter-bootstrap-basics.sublime-project"
 			],
 			[
 				"twi",
 				"/Users/phowley/Desktop/twitter-bootstrap-basics/twitter-bootstrap-basics.sublime-project"
-			],
-			[
-				"",
-				"/Users/phowley/Dropbox/phil_stuff/schools/ai/class-web-site/learn-actionscript-bootstrap/actionscript.sublime-project"
 			]
 		],
 		"width": 380.0

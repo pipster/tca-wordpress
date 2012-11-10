@@ -18,8 +18,20 @@
 body {
   font-family: $f_main;
   font-size: 11px;
-  line-height: 1.1em;
+  line-height: 1.6em;
+  overflow-x: hidden;  /* stops horizontal scrolling bars with .extendFull class */
 }
+/* the extend classes allow our nav to widen to infinity */
+.extendFull, .extendLeft  
+{  
+    padding-left: 3000px;  
+    margin-left: -3000px;  
+}  
+.extendFull, .extendRight  
+{  
+    padding-right: 3000px;  
+    margin-right: -3000px;  
+} 
 dl {
   color: $black; 
   strong {
@@ -75,10 +87,11 @@ strong {
 }
 
 h2 {
-  padding: 0;
+  padding: 0 0 0 0;
   margin: 0;
   font-size: 14px;
-  line-height: 20px;
+  color: $yellow;
+  letter-spacing: 0;
 
   a {
   color: $yellow;
@@ -93,4 +106,22 @@ h2 {
 
 .main a {
   letter-spacing: 2px;
+}
+
+/* adds images to be just under main navigation */
+.bioImgContainer {
+   margin-top: -20px; 
+}
+/* pushes the 2nd column text down to match up with the first column */
+.bioSecondColumn {
+  padding-top: 45px;
+}
+.bioDetails ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+footer {
+  margin-left: 0 !important;
 }

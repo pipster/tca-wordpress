@@ -1,0 +1,1462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"column",
+				"columnizeList"
+			],
+			[
+				"bo",
+				"_bootstrap-responsive.css"
+			],
+			[
+				"boot",
+				"_bootstrap.css"
+			],
+			[
+				"jquery",
+				"jquery-1"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"ADD",
+				"ADDRESS_TYPE_PARK"
+			],
+			[
+				"addre",
+				"address_2"
+			],
+			[
+				"_time_",
+				"_time_created"
+			],
+			[
+				"trigge",
+				"trigger_error"
+			],
+			[
+				"prot",
+				"protected_property_name"
+			],
+			[
+				"proper",
+				"property_exists"
+			],
+			[
+				"_po",
+				"_postal_code_guess"
+			],
+			[
+				"subdi",
+				"subdivision_name"
+			],
+			[
+				"street",
+				"street_address_2"
+			],
+			[
+				"sub",
+				"subdivision"
+			],
+			[
+				"each",
+				"each  (function)"
+			],
+			[
+				"on",
+				"only-child  (function)"
+			],
+			[
+				"curr",
+				"currentPanel"
+			],
+			[
+				"marquee",
+				"marquee_panel"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"cook",
+				"_COOKIE"
+			],
+			[
+				"valid",
+				"validate_user_creds"
+			],
+			[
+				"mar",
+				"marquee_caption"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"sear",
+				"search-bg.jpg	w:226 h:29"
+			],
+			[
+				"ima",
+				"images/"
+			],
+			[
+				"en",
+				"enrollment-kids.jpg	w:618 h:322"
+			],
+			[
+				"body",
+				"body"
+			],
+			[
+				"css",
+				"css/"
+			],
+			[
+				"form",
+				"form	form - Placeholder"
+			],
+			[
+				"lorem",
+				"lorem	lorem - Medium paragraph"
+			],
+			[
+				"ge",
+				"greatest_players"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"font",
+				"font-variant"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"n",
+				"no-repeat"
+			],
+			[
+				"out",
+				"output_style"
+			],
+			[
+				"gree",
+				"green_color"
+			],
+			[
+				"03-",
+				"03-play-pause.fla"
+			],
+			[
+				"04-",
+				"04-video-with-cuepoint.fla"
+			],
+			[
+				"03",
+				"03-load-external-video.fla"
+			],
+			[
+				"05",
+				"05-video-with-netstream.fla"
+			],
+			[
+				"script",
+				"script	script_with_src"
+			],
+			[
+				"webkit-t",
+				"-webkit-transition:   (property)"
+			],
+			[
+				"get",
+				"getContext"
+			],
+			[
+				"say",
+				"sayHello"
+			],
+			[
+				"f",
+				"finish-line.jpg	w:663 h:397"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"insert",
+				"insertBefore  (function)"
+			],
+			[
+				"photo",
+				"photoWidth"
+			],
+			[
+				"t",
+				"three-legged-stool-outline-md.gif	w:273 h:298"
+			],
+			[
+				"loal",
+				"localStorage"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"input",
+				"input	input - submit"
+			],
+			[
+				"textarea",
+				"textarea"
+			],
+			[
+				"data",
+				"dataToSave"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"sum",
+				"summary  (element)"
+			],
+			[
+				"evt",
+				"evt"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"faq",
+				"faqAnswerContainer"
+			],
+			[
+				"back",
+				"background	background-image: url"
+			],
+			[
+				"j",
+				"jquery	latest jquery"
+			],
+			[
+				"param",
+				"paramOne"
+			],
+			[
+				"para",
+				"paramOne"
+			],
+			[
+				"glo",
+				"globalVar"
+			],
+			[
+				"global",
+				"globalFunction"
+			],
+			[
+				"marque",
+				"marquee_panel"
+			],
+			[
+				"marquee_pa",
+				"marquee_panels"
+			],
+			[
+				"marqu",
+				"marquee_nav"
+			],
+			[
+				"m",
+				"marquee_photos"
+			],
+			[
+				"close",
+				"closeOverlay"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"fun",
+				"fun	anonymous_fn"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"stri",
+				"stripslashes"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"twe",
+				"tweets-template"
+			],
+			[
+				"fade",
+				"fadeSlideToggle"
+			],
+			[
+				"fad",
+				"fadeSlideToggle"
+			],
+			[
+				"win",
+				"winWidth"
+			],
+			[
+				"h2",
+				"h2"
+			],
+			[
+				"li",
+				"li	<li>"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"do",
+				"doSomething"
+			],
+			[
+				"contact",
+				"contactForm"
+			],
+			[
+				"dt",
+				"<dl>\n	<dt>${1001:$SELECTION}</dt>\n</dl>"
+			],
+			[
+				"style",
+				"style"
+			],
+			[
+				"hell",
+				"hello"
+			],
+			[
+				"h1",
+				"h1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Windows/System32/drivers/etc/hosts",
+			"settings":
+			{
+				"buffer_size": 889,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Compass/Compass.sublime-build",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"packrm",
+				"Package Control: Remove Package"
+			],
+			[
+				"pakcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"packr",
+				"Package Control: Remove Package"
+			],
+			[
+				"jav",
+				"Format: Javascript"
+			],
+			[
+				"min",
+				"Minify Javascript"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"syncss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"fetch",
+				"Fetch: File"
+			],
+			[
+				"fetchm",
+				"Fetch: Manage"
+			],
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"synt",
+				"Set Syntax: HTML5"
+			],
+			[
+				"lip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn",
+				"Set Syntax: XML"
+			],
+			[
+				"syntext",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"synth",
+				"Set Syntax: HTML5"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Checkout Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git pu",
+				"Git: Pull"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"css",
+				"Tidy CSS"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"csst",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"projectsa",
+				"Project: Save As"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"packagei",
+				"Package Control: Install Package"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"project s",
+				"Project: Save As"
+			],
+			[
+				"projecad",
+				"Project: Add Folder"
+			],
+			[
+				"syntphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"gistbor",
+				"Gist: Open Gist in Browser"
+			],
+			[
+				"gistp",
+				"Gist: Create Public Gist"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"copyscri",
+				"File: Copy as Tag script"
+			],
+			[
+				"copy a",
+				"File: Copy as Tag a"
+			],
+			[
+				"copypathpr",
+				"File: Copy Path From Project"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"styhtml",
+				"Set Syntax: HTML5"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"packing",
+				"Package Control: Install Package"
+			],
+			[
+				"jqueryon",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"syntjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"jquery",
+				"Snippet: jquery_fallback"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"zen",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"fe",
+				"Fetch"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"lore",
+				"Snippet: lorem - Medium paragraph"
+			],
+			[
+				"lorem",
+				"Snippet: lorem - One sentence"
+			],
+			[
+				"lor",
+				"Snippet: lorem - Medium paragraph"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lo",
+				"Snippet: lorem - Medium paragraph"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"tag",
+				"Tag: Remove All Tags in Selection"
+			],
+			[
+				"tab",
+				"Snippet: Bootstrap tabbable navigation tabs on the bottom"
+			],
+			[
+				"bootstrap tab",
+				"Snippet: Bootstrap important inline label"
+			],
+			[
+				"bootstrap tap",
+				"Snippet: Bootstrap tabs with dropdowns"
+			],
+			[
+				"boot",
+				"Snippet: Bootstrap basic two column grid"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <title>"
+			],
+			[
+				"mi",
+				"Snippet: md-ital"
+			],
+			[
+				"md",
+				"Snippet: md-ital"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"label",
+				"Snippet: <label>"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"htm",
+				"Tidy HTML"
+			],
+			[
+				"wrap",
+				"Snippet: Wrap Selection in Open/Close Tag"
+			],
+			[
+				"wr",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instalp",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"prefi",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"gi",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"creat",
+				"Gist: Create Public Gist"
+			],
+			[
+				"place",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"lint",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"j",
+				"Format: Javascript"
+			],
+			[
+				"change",
+				"ChangeQuotes"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: wr",
+				"Snippet: Wrap Selection in Open/Close Tag"
+			],
+			[
+				"Snippet: jqer",
+				"Snippet: latest jquery"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML5"
+			],
+			[
+				"f",
+				"Fetch: Manage remote files"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 133.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wordpress/clients.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wordpress/awards.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/css/sass/_footer.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/css/sass/style.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wordpress/assets/css/sass/_main-nav.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wordpress/contact.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wordpress/thom-cox.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wordpress/tca-wordpress.sublime-project",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wordpress/tca-wordpress-pc.sublime-project",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/contact.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/awards.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/_mixins.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/_variables.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/style.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/.gitignore",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/js/main.js",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/style.css",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/_dropdown.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/_footer.scss",
+		"/c/Users/philip/dropbox/phil-stuff/my-sites/tca-wp/.git/COMMIT_EDITMSG",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/_main-nav.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/_fonts.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/.sass-cache/fd2ad6db4ff60b59bc12190040d6d3395e1f6cd9/_fonts.scssc",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/_slideshow.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/_bootstrap-responsive.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/_bootstrap.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/_bootstrap.css",
+		"/C/Users/philip/Desktop/responsive.gs.24col/responsive-gs-24col.css",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/google-maps.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/clients.html",
+		"/C/Users/philip/Documents/vim-practice/welcome.txt",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/web-fonts/nexa-free-light-macroman/Nexa_Free_Light-demo.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/web-fonts/nexafree_light_macroman/Nexa_Free_Light-demo.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/web-fonts/nexafree_light_macroman/stylesheet.css",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/web-fonts/nexafree-bold-macroman/stylesheet.css",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/web-fonts/nexafree-bold-macroman/specimen_files/specimen_stylesheet.css",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/index.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/config.rb",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/CSS/start-css-comment.sublime-snippet",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/print.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css/sass/ie.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/sass/style.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css-sass-convert/messy.css",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/assets/css-sass-convert/clean.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/css/style.css",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/config.rb",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/Compass/README.markdown",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/sass/style.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/index.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/assets/css/style.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/assets/js/main.js",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/assets/css/style.css",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/assets/js/vendor/jquery.cycle.lite.min.js",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/tca-wp.sublime-project",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/please-work.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/scripts/jquery.cycle.all.2.74.js",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/assets/images/bg2.jpg",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/assets/js/vendor/jquery.cycle.lite.js",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/assets/js/vendor/jquery-1.8.2.min.js",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/css/style.scss",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/test.html",
+		"/C/Users/philip/Dropbox/phil-stuff/my-sites/tca-wp/html-site/css/main.css",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/HTML/general-comment.sublime-snippet",
+		"/C/Users/philip/Desktop/lynda-bootstrap/dropdown.html",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/philip/Desktop/lynda-bootstrap/notes.txt",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/sass/style.scss",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/css2/style.css",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/html5_page_structure.sublime-snippet",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/HTML/twitter-bootstrap-icon.sublime-snippet",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/HTML/twitter-bootstrap-starter.sublime-snippet",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/config.rb",
+		"/C/Users/philip/Desktop/lynda-bootstrap/style.css",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/style.css",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/style.scss",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/variables-functions.scss",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/importing-styles.scss",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/_normalize.scss",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/body.scss",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/normalize.scss",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/body.css",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/selector-inheritance.scss",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/nesting.scss",
+		"/C/Users/philip/Desktop/lynda-bootstrap/index.html",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/HTML/closing_html_comment.sublime-snippet",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/HTML/fig-caption.sublime-snippet",
+		"/C/Users/philip/Desktop/lynda-bootstrap/junk.html",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/html/fig-caption.sublime-snippet",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/html/add_live_jquery_script.sublime-snippet",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/js/self_invoking_function.sublime-snippet",
+		"/C/Users/philip/Desktop/movievomit_DB.sql",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/philip/Desktop/lynda-bootstrap/lynda-bootstrap.sublime-project",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/C/Users/philip/Desktop/lynda-bootstrap/css/bootstrap.css",
+		"/C/Users/philip/Desktop/WebDevelopmentContract.doc",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/html/csslink.sublime-snippet",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/HTML/add_live_jquery_script.sublime-snippet",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/js/jquery_ready.sublime-snippet",
+		"/C/xampp/htdocs/onepager/styles/style.less",
+		"/C/xampp/htdocs/onepager/index.html",
+		"/C/xampp/htdocs/onepager/styles/style.css",
+		"/C/Users/philip/Desktop/onepager/onepager.sublime-project",
+		"/C/Users/philip/Desktop/onepager/styles/style.less",
+		"/C/Users/philip/Desktop/onepager/styles/style.css",
+		"/C/Users/philip/Desktop/onepager/index.html",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/CSSTidy/csstidy.sublime-settings",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/CSScomb/Default (Windows).sublime-keymap",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/CoffeeScript/Keymaps/Default (Windows).sublime-keymap",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/CoffeeScript/console-log.sublime-snippet",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.sublime-settings",
+		"/C/Users/philip/Desktop/coffee-fun/coffee-fun.sublime-project",
+		"/C/Users/philip/Desktop/coffee-fun/functions/functions.coffee",
+		"/C/Users/philip/Desktop/coffee-fun/functions/functions.js",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/project-settings-template.sublime-settings",
+		"/C/Users/philip/Desktop/coffee-fun/comments/comments.coffee",
+		"/C/Users/philip/Desktop/coffee-fun/comments/comments.js",
+		"/C/Users/philip/Desktop/coffee-fun/lesson4.coffee",
+		"/C/Users/philip/Desktop/coffee-fun/makeArray-old.js",
+		"/C/Users/philip/Desktop/coffee-fun/makeArray.coffee",
+		"/C/Users/philip/Desktop/coffee-fun/makeArray.js",
+		"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/CoffeeScript/CoffeeScript.sublime-build",
+		"/C/xampp/htdocs/lynda/oop-php/script.coffee"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"C:\\xampp\\htdocs\\new-bhs",
+			"C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap\\week-01.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap\\week-02.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap\\week-03.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap\\week-04.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap\\week-05.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap\\week-06.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap\\week-07.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap\\week-08.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap\\week-09.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap\\week-10.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap\\week-11.html",
+			"C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-actionscript-bootstrap",
+			"C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-01.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-02.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-03.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-04.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-05.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-06.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-07.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-08.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-09.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-10.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-11.html",
+			"C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-js-bootstrap\\week-01.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-js-bootstrap\\week-02.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-js-bootstrap\\week-03.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-js-bootstrap\\week-04.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-js-bootstrap\\week-05.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-js-bootstrap\\week-06.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-js-bootstrap\\week-07.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-js-bootstrap\\week-08.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-js-bootstrap\\week-09.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-js-bootstrap\\week-10.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-js-bootstrap\\week-11.html",
+			"<project>",
+			"C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-01.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-02.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-03.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-04.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-05.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-06.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-07.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-08.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-09.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-10.html,C:\\Users\\philip\\Dropbox\\phil_stuff\\schools\\ai\\class-web-site\\learn-flash-bootstrap\\week-11.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dropdown",
+			"*/\n",
+			"dropdown_gray",
+			"p",
+			"none",
+			"</strong>",
+			"</h2>",
+			"<h2>",
+			"h2>",
+			"h1",
+			"div",
+			"nexafree",
+			"nexa",
+			"'",
+			"nexa-free-bold-webfont",
+			"Nexa_Free_Light",
+			"Nexa_Free_Bold",
+			"src=\"images/",
+			"assets/images/",
+			"jpg'",
+			"    '",
+			"\" class=\"bgM\"",
+			"<img src=\"",
+			"found by selector",
+			"expand",
+			"red-color",
+			"$red",
+			"scss",
+			"pill",
+			"pill	",
+			"<small>",
+			"(dt{David De Gea}+dd{Goalkeeper})",
+			"http://localhost:8888/wordpress",
+			"div",
+			"bullet",
+			"15.png",
+			"bullet.jpg",
+			"15.png",
+			"bullet.jpg",
+			"type=\"text/javascript\">",
+			"type=\"text/javascript\" ",
+			".shadow",
+			"shadow",
+			"text-shadow",
+			"@what @duration @easing;",
+			"transition",
+			"all 200ms;",
+			"div#works",
+			"opacity",
+			"opacity	",
+			"opacity",
+			"-ms-filter",
+			".msopacity",
+			".button",
+			"-webkit-border-radius:.2em;",
+			"-webkit-border-radius: 0.2em;",
+			"-ms-filter",
+			"-ms-filter:",
+			"font-weight:400;\nfont-style:normal;",
+			"margin-top:",
+			"content",
+			"#works_filter",
+			"color:red;",
+			"color: red;",
+			"background:none;\n	color: red;",
+			"@stack",
+			"Arial, Helvetica, sans-serif",
+			"Arial, Helvetica, Sans-Serif",
+			"#f60031",
+			"f60031",
+			"#f60031",
+			"f60031",
+			"#f60031",
+			"#7cb3d3",
+			"7cb3d3",
+			"84bbdb",
+			"#8f8f8f",
+			"8f8f8f",
+			"#8f8f8f",
+			"8f8f8f",
+			"#84BBDB",
+			"84bbdb",
+			"#3072b3",
+			"3072b3",
+			"#35779d",
+			"35779d",
+			"#12415c",
+			"12415c",
+			"#1d1d1d",
+			"1d1d1d",
+			"#eee",
+			"eee",
+			"#dbdbdb",
+			"dbdbdb",
+			"#0D4667",
+			"0d4667",
+			"#002b44",
+			"002b44",
+			"#4b88ad",
+			"4b88ad",
+			"#4b88ad",
+			"4b88ad",
+			"#185477",
+			"185477",
+			"#619ec2",
+			"619ec2",
+			"#1b1b1b",
+			"1b1b1b",
+			"#2e2f2f",
+			"2e2f2f",
+			"#353535",
+			"#2c2c2c",
+			"#fff",
+			"#195f88",
+			"greeting",
+			"[description]",
+			"p",
+			"h4",
+			"http://dev-ocs.org",
+			"h2",
+			"localhost",
+			"url",
+			"jeff",
+			">\n",
+			"http://dev-ocs.org",
+			"jQuery",
+			"currentPage",
+			"page-template-page"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src=\"assets/images/",
+			"http://localhost/mvomit",
+			"@stack",
+			"http://ocswp.kingluddite.com",
+			"_backpack_cal",
+			"4314",
+			"<h2>Download the finished files here</h2>\n(<em><a href=\"/wordpress-2/how-do-i-use-the-finished-files\" title=\"Using kingludd's finished files to follow instructions on custom wordpress screencasts\">How do I use the finished files</a></em>)",
+			"http://tak.kingluddite.com",
+			"http://localhost/tak-new",
+			"file://localhost/tak-new",
+			"file://localhost/F:/Music/",
+			"http://tak.kingluddite.com",
+			"http://localhost/tak",
+			"http://simplewordpress.kingluddite.com",
+			"http://localhost/simple-wordpress-2",
+			"http://ocswp.kingluddite.com",
+			"",
+			"http://ocswp.kingluddite.com",
+			"http://dev-ocs.org",
+			"http://localhost:8888/ocs",
+			"http://dev-ocs.org",
+			"http://localhost/new-bhs",
+			"http://localhost/new-bhs/",
+			"http://localhost/bhs/",
+			"<string>file://localhost/E:/music/Music/",
+			"file://localhost/E:/music/Music/",
+			"E:/music/Music/",
+			"",
+			"<li>\n                <a href=\"week-08.html\">Week 08</a>\n              </li></ul></div>",
+			"\n           <!-- #finalProject\n                ================================================== -->\n                <section id=\"finalProject\">\n                  <div class=\"page-heading\">\n                    <h1>Final Project</h1>\n                  </div>\n                  <!-- END .page-heading -->      \n                  <div class=\"row\">\n                    <div class=\"span6\">\n                      <h2>Flash MP3 Player</h2>\n                      <p> This will be due two hours before the end of class on our last class (<strong>Week 8</strong>). I want you to create your own personal Flash MP3 player. I want you to upload this to your live server and email me the live URL so I can see that it is working. All of your files should be zipped and uploaded to ecompanion's dropbox.\n                      </p>\n                      <p>You will give a 5 minute presentation of your Player to the class. Tell us problems you had that you could solve and problems you could not solve. Tell us any lessons you learned.</p>\n                      \n                    </div>\n                    <div class=\"span6\">\n              <div class=\"page-heading\"><h1>Group Presentation\n            </h1></div>\n            <p>Here are 6 topics. I tried to pick technologies that I think are very interesting and have a viable future. Here they are:</p>\n            <ul>\n              <li><a href=\"http://active.tutsplus.com/tutorials/games/using-the-kongregate-api-in-your-flash-games/\" target=\"_blank\">kongregate api (flash games)</a></li>\n              <li><a href=\"http://mobile.tutsplus.com/tutorials/phonegap/build-an-exercise-tracking-app-geolocation-tracking/\" target=\"_blank\">PhoneGap (mobile applications)</a></li>\n              <li><a href=\"http://active.tutsplus.com/tutorials/unity/getting-started-with-unity/\" target=\"_blank\">Unity (multi-player JavaScript game engine)</a></li>\n              <li><a href=\"http://active.tutsplus.com/tutorials/games/learn-createjs-by-building-an-html5-pong-game/\" target=\"_blank\">HTML5 JavaScript Game</a></li>\n              <li><a href=\"http://active.tutsplus.com/tutorials/actionscript/recreate-the-cover-flow-effect-using-flash-and-as3/\" target=\"_blank\">Cover Flow Effect in Flash</a></li>\n              <li><a href=\"http://active.tutsplus.com/tutorials/browser-apps/intro-to-dart-creating-a-marquee/\" target=\"_blank\">Google Dart</a></li>\n            </ul>\n            <p>Each group must pick a different subject. I want on Week 7, for each group to do a 20 minute presentation on the topic. Tell us what it is and why it is useful. I then want you to walk the class through a demonstration of how it works. By the end of the demo, the class should not be experts in the technology but they should have a good idea what it is and how to get started using it. I will allocate 1 hour to each group. It sounds like a long time but when you are walking through the setup steps you will find that time flies and an hour won't be enough time.. but that's all the time you get, so use your time effectively.</p></div>\n                  </div>\n                  <!-- END .row -->      \n                </section><!-- END #finalProject -->\n          \n                \n      <hr>\n      <footer>",
+			"<link rel=\"stylesheet\" href=\n    \"assets/js/highlighter/sunburst.css\" type=\"text/css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"assets/css/style.css\">",
+			"<hr /><footer>",
+			"</footer>",
+			"<hr /></footer>",
+			"\"assets/images/",
+			"assets/",
+			"<!-- END",
+			"-",
+			"  <link rel=\"stylesheet\" href=\"css/main.css\">",
+			"jQuery",
+			"jQuery\n<tbody>\n<tr>\n<th scope=\"col\" width=\"241\">action</th>\n<th scope=\"col\" width=\"201\">keyboard shortcut(mac)</th>\n<th scope=\"col\" width=\"173\">keyboard shortcut(pc)</th>\n<th scope=\"col\" width=\"636\">special notes</th>\n</tr>\n<tr>\n<td>show/hide sidebar</td>\n<td>super + k, super + b</td>\n<td>ctrl + k, ctr l+ b</td>\n<td>This is a two key shortcut</td>\n</tr>\n<tr>\n<td>commands list</td>\n<td>super + shift + p</td>\n<td>ctrl + shift + p</td>\n<td></td>\n</tr>\n<tr>\n<td>multi-cursor</td>\n<td>Ctrl + click</td>\n<td>super + click</td>\n<td>everywhere you click you get a new cursor!</td>\n</tr>\n<tr>\n<td>multi-cursor block</td>\n<td></td>\n<td>Shift + super + L</td>\n<td>adds cur­sors after your high­lighted block, use the right arrow on key­board to start typ­ing after high­lighted block (and not erase what is highlighted)</td>\n</tr>\n<tr>\n<td>multi-cursor 'and 1'</td>\n<td>ctrl + d</td>\n<td>super + d</td>\n<td>to select addi­tional occur­rences of that word</td>\n</tr>\n<tr>\n<td>multi-cursor 'on steroids'</td>\n<td>alt + f3</td>\n<td>ctr + super + g</td>\n<td>selects every occurrence of what you have highlighted (my personal favorite!)</td>\n</tr>\n<tr>\n<td>go to anything</td>\n<td>super + p</td>\n<td>ctrl + p</td>\n<td>After typing shortcut, type a part of your file and it finds it fast</td>\n</tr>\n<tr>\n<td>auto completion</td>\n<td>ctrl + space</td>\n<td>ctrl + space</td>\n<td></td>\n</tr>\n<tr>\n<td>switch between open tabs</td>\n<td></td>\n<td></td>\n<td>Hate using your mouse and clicking on open tabs? Use this shortcut and you can quickly navigate between tabs without a mouse.</td>\n</tr>\n<tr>\n<td>open last closed file</td>\n<td>super + shift + t</td>\n<td>ctrl + shift + t</td>\n<td></td>\n</tr>\n<tr>\n<td>go to specific line</td>\n<td>ctrl +g</td>\n<td>ctrl + g</td>\n<td></td>\n</tr>\n<tr>\n<td>splits screen</td>\n<td></td>\n<td>alt+shift+1,2,3,4,5...</td>\n<td>Splits screen for multiple views for multiple files</td>\n</tr>\n<tr>\n<td>find and replace</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>find</td>\n<td>super + f</td>\n<td>ctrl + f</td>\n<td></td>\n</tr>\n<tr>\n<td>duplicate line</td>\n<td>super + shift + d</td>\n<td>shift + ctrl + d</td>\n<td>Duplicates the current line, or the selection, if something is selected.</td>\n</tr>\n<tr>\n<td>select similar word</td>\n<td>super + d</td>\n<td>ctrl + d</td>\n<td>This is great if you want to keep selecting the next occurance of a word</td>\n</tr>\n<tr>\n<td>delete current line</td>\n<td>super + shift + k + delete</td>\n<td>ctrl + shift + k</td>\n<td></td>\n</tr>\n<tr>\n<td>toggle full view</td>\n<td>ctrl + shift + f</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>toggle distraction free mode</td>\n<td>ctrl + shift + super + f</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>toggle comment</td>\n<td>super + / (forward slash)</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>toggle block comment</td>\n<td>opt + super + /</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>show console</td>\n<td></td>\n<td>opt + `</td>\n<td>backtic is <strong>`</strong> and same key has tilda <strong>~ </strong>(keys people see a lot but don't know)</td>\n</tr>\n<tr>\n<td>wrap with tag</td>\n<td>ctrl + shift + w</td>\n<td>alt + shift + w</td>\n<td>highlight what you want wrapped and presto, it's wrapped!</td>\n</tr>\n<tr>\n<td>move line</td>\n<td>ctrl + super + up/down</td>\n<td>ctrl + shift + up/down</td>\n<td></td>\n</tr>\n<tr>\n<td>zen coding(plugin)</td>\n<td>ctrl + option + return</td>\n<td>ctrl + alt + enter</td>\n<td>you will see koan box appear on bottom (enter zen coding there)</td>\n</tr>\n<tr>\n<td>AutoFileName(plugin)</td>\n<td>super + spacebar</td>\n<td>ctrl + spacebar</td>\n<td>a better way is to edit the User settings file and the file/folder name will be populated by typing '/'.</td>\n</tr>\n<tr>\n<td>AdvancedNewFileName(plugin)</td>\n<td>super + alt + n</td>\n<td>ctrl + alt + n</td>\n<td>a better/faster way to create folders/files</td>\n</tr>\n<tr>\n<td>JsFormat(plugin)</td>\n<td>super + shift + p (and then select Format:JavaScript)</td>\n<td>ctrl + shift + p (and then select Format:JavaScript)</td>\n<td>I can't get the keyboard shortcut to work? any ideas/suggestions appreciated</td>\n</tr>\n\n</tbody>\n</table>",
+			"../images/\n<tbody>\n<tr>\n<th scope=\"col\" width=\"241\">action</th>\n<th scope=\"col\" width=\"201\">keyboard shortcut(mac)</th>\n<th scope=\"col\" width=\"173\">keyboard shortcut(pc)</th>\n<th scope=\"col\" width=\"636\">special notes</th>\n</tr>\n<tr>\n<td>show/hide sidebar</td>\n<td>super + k, super + b</td>\n<td>ctrl + k, ctr l+ b</td>\n<td>This is a two key shortcut</td>\n</tr>\n<tr>\n<td>commands list</td>\n<td>super + shift + p</td>\n<td>ctrl + shift + p</td>\n<td></td>\n</tr>\n<tr>\n<td>multi-cursor</td>\n<td>Ctrl + click</td>\n<td>super + click</td>\n<td>everywhere you click you get a new cursor!</td>\n</tr>\n<tr>\n<td>multi-cursor block</td>\n<td></td>\n<td>Shift + super + L</td>\n<td>adds cur­sors after your high­lighted block, use the right arrow on key­board to start typ­ing after high­lighted block (and not erase what is highlighted)</td>\n</tr>\n<tr>\n<td>multi-cursor 'and 1'</td>\n<td>ctrl + d</td>\n<td>super + d</td>\n<td>to select addi­tional occur­rences of that word</td>\n</tr>\n<tr>\n<td>multi-cursor 'on steroids'</td>\n<td>alt + f3</td>\n<td>ctr + super + g</td>\n<td>selects every occurrence of what you have highlighted (my personal favorite!)</td>\n</tr>\n<tr>\n<td>go to anything</td>\n<td>super + p</td>\n<td>ctrl + p</td>\n<td>After typing shortcut, type a part of your file and it finds it fast</td>\n</tr>\n<tr>\n<td>auto completion</td>\n<td>ctrl + space</td>\n<td>ctrl + space</td>\n<td></td>\n</tr>\n<tr>\n<td>switch between open tabs</td>\n<td></td>\n<td></td>\n<td>Hate using your mouse and clicking on open tabs? Use this shortcut and you can quickly navigate between tabs without a mouse.</td>\n</tr>\n<tr>\n<td>open last closed file</td>\n<td>super + shift + t</td>\n<td>ctrl + shift + t</td>\n<td></td>\n</tr>\n<tr>\n<td>go to specific line</td>\n<td>ctrl +g</td>\n<td>ctrl + g</td>\n<td></td>\n</tr>\n<tr>\n<td>splits screen</td>\n<td></td>\n<td>alt+shift+1,2,3,4,5...</td>\n<td>Splits screen for multiple views for multiple files</td>\n</tr>\n<tr>\n<td>find and replace</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>find</td>\n<td>super + f</td>\n<td>ctrl + f</td>\n<td></td>\n</tr>\n<tr>\n<td>duplicate line</td>\n<td>super + shift + d</td>\n<td>shift + ctrl + d</td>\n<td>Duplicates the current line, or the selection, if something is selected.</td>\n</tr>\n<tr>\n<td>select similar word</td>\n<td>super + d</td>\n<td>ctrl + d</td>\n<td>This is great if you want to keep selecting the next occurance of a word</td>\n</tr>\n<tr>\n<td>delete current line</td>\n<td>super + shift + k + delete</td>\n<td>ctrl + shift + k</td>\n<td></td>\n</tr>\n<tr>\n<td>toggle full view</td>\n<td>ctrl + shift + f</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>toggle distraction free mode</td>\n<td>ctrl + shift + super + f</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>toggle comment</td>\n<td>super + / (forward slash)</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>toggle block comment</td>\n<td>opt + super + /</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>show console</td>\n<td></td>\n<td>opt + `</td>\n<td>backtic is <strong>`</strong> and same key has tilda <strong>~ </strong>(keys people see a lot but don't know)</td>\n</tr>\n<tr>\n<td>wrap with tag</td>\n<td>ctrl + shift + w</td>\n<td>alt + shift + w</td>\n<td>highlight what you want wrapped and presto, it's wrapped!</td>\n</tr>\n<tr>\n<td>move line</td>\n<td>ctrl + super + up/down</td>\n<td>ctrl + shift + up/down</td>\n<td></td>\n</tr>\n<tr>\n<td>zen coding(plugin)</td>\n<td>ctrl + option + return</td>\n<td>ctrl + alt + enter</td>\n<td>you will see koan box appear on bottom (enter zen coding there)</td>\n</tr>\n<tr>\n<td>AutoFileName(plugin)</td>\n<td>super + spacebar</td>\n<td>ctrl + spacebar</td>\n<td>a better way is to edit the User settings file and the file/folder name will be populated by typing '/'.</td>\n</tr>\n<tr>\n<td>AdvancedNewFileName(plugin)</td>\n<td>super + alt + n</td>\n<td>ctrl + alt + n</td>\n<td>a better/faster way to create folders/files</td>\n</tr>\n<tr>\n<td>JsFormat(plugin)</td>\n<td>super + shift + p (and then select Format:JavaScript)</td>\n<td>ctrl + shift + p (and then select Format:JavaScript)</td>\n<td>I can't get the keyboard shortcut to work? any ideas/suggestions appreciated</td>\n</tr>\n\n</tbody>\n</table>",
+			"<table width=\"100%\" border=\"1\">\n<tbody>\n<tr>\n<th scope=\"col\" width=\"241\">action</th>\n<th scope=\"col\" width=\"201\">keyboard shortcut(mac)</th>\n<th scope=\"col\" width=\"173\">keyboard shortcut(pc)</th>\n<th scope=\"col\" width=\"636\">special notes</th>\n</tr>\n<tr>\n<td>show/hide sidebar</td>\n<td>super + k, super + b</td>\n<td>ctrl + k, ctr l+ b</td>\n<td>This is a two key shortcut</td>\n</tr>\n<tr>\n<td>commands list</td>\n<td>super + shift + p</td>\n<td>ctrl + shift + p</td>\n<td></td>\n</tr>\n<tr>\n<td>multi-cursor</td>\n<td>Ctrl + click</td>\n<td>super + click</td>\n<td>everywhere you click you get a new cursor!</td>\n</tr>\n<tr>\n<td>multi-cursor block</td>\n<td></td>\n<td>Shift + super + L</td>\n<td>adds cur­sors after your high­lighted block, use the right arrow on key­board to start typ­ing after high­lighted block (and not erase what is highlighted)</td>\n</tr>\n<tr>\n<td>multi-cursor 'and 1'</td>\n<td>ctrl + d</td>\n<td>super + d</td>\n<td>to select addi­tional occur­rences of that word</td>\n</tr>\n<tr>\n<td>multi-cursor 'on steroids'</td>\n<td>alt + f3</td>\n<td>ctr + super + g</td>\n<td>selects every occurrence of what you have highlighted (my personal favorite!)</td>\n</tr>\n<tr>\n<td>go to anything</td>\n<td>super + p</td>\n<td>ctrl + p</td>\n<td>After typing shortcut, type a part of your file and it finds it fast</td>\n</tr>\n<tr>\n<td>auto completion</td>\n<td>ctrl + space</td>\n<td>ctrl + space</td>\n<td></td>\n</tr>\n<tr>\n<td>switch between open tabs</td>\n<td></td>\n<td></td>\n<td>Hate using your mouse and clicking on open tabs? Use this shortcut and you can quickly navigate between tabs without a mouse.</td>\n</tr>\n<tr>\n<td>open last closed file</td>\n<td>super + shift + t</td>\n<td>ctrl + shift + t</td>\n<td></td>\n</tr>\n<tr>\n<td>go to specific line</td>\n<td>ctrl +g</td>\n<td>ctrl + g</td>\n<td></td>\n</tr>\n<tr>\n<td>splits screen</td>\n<td></td>\n<td>alt+shift+1,2,3,4,5...</td>\n<td>Splits screen for multiple views for multiple files</td>\n</tr>\n<tr>\n<td>find and replace</td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>find</td>\n<td>super + f</td>\n<td>ctrl + f</td>\n<td></td>\n</tr>\n<tr>\n<td>duplicate line</td>\n<td>super + shift + d</td>\n<td>shift + ctrl + d</td>\n<td>Duplicates the current line, or the selection, if something is selected.</td>\n</tr>\n<tr>\n<td>select similar word</td>\n<td>super + d</td>\n<td>ctrl + d</td>\n<td>This is great if you want to keep selecting the next occurance of a word</td>\n</tr>\n<tr>\n<td>delete current line</td>\n<td>super + shift + k + delete</td>\n<td>ctrl + shift + k</td>\n<td></td>\n</tr>\n<tr>\n<td>toggle full view</td>\n<td>ctrl + shift + f</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>toggle distraction free mode</td>\n<td>ctrl + shift + super + f</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>toggle comment</td>\n<td>super + / (forward slash)</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>toggle block comment</td>\n<td>opt + super + /</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>show console</td>\n<td></td>\n<td>opt + `</td>\n<td>backtic is <strong>`</strong> and same key has tilda <strong>~ </strong>(keys people see a lot but don't know)</td>\n</tr>\n<tr>\n<td>wrap with tag</td>\n<td>ctrl + shift + w</td>\n<td>alt + shift + w</td>\n<td>highlight what you want wrapped and presto, it's wrapped!</td>\n</tr>\n<tr>\n<td>move line</td>\n<td>ctrl + super + up/down</td>\n<td>ctrl + shift + up/down</td>\n<td></td>\n</tr>\n<tr>\n<td>zen coding(plugin)</td>\n<td>ctrl + option + return</td>\n<td>ctrl + alt + enter</td>\n<td>you will see koan box appear on bottom (enter zen coding there)</td>\n</tr>\n<tr>\n<td>AutoFileName(plugin)</td>\n<td>super + spacebar</td>\n<td>ctrl + spacebar</td>\n<td>a better way is to edit the User settings file and the file/folder name will be populated by typing '/'.</td>\n</tr>\n<tr>\n<td>AdvancedNewFileName(plugin)</td>\n<td>super + alt + n</td>\n<td>ctrl + alt + n</td>\n<td>a better/faster way to create folders/files</td>\n</tr>\n<tr>\n<td>JsFormat(plugin)</td>\n<td>super + shift + p (and then select Format:JavaScript)</td>\n<td>ctrl + shift + p (and then select Format:JavaScript)</td>\n<td>I can't get the keyboard shortcut to work? any ideas/suggestions appreciated</td>\n</tr>\n\n</tbody>\n</table>",
+			"&lt;meta charset=\"utf-8\">",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Windows/System32/drivers/etc/hosts",
+					"settings":
+					{
+						"buffer_size": 889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								876,
+								876
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 130.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"var",
+				"assets/css/sass/_variables.scss"
+			],
+			[
+				"_fonts.scss",
+				"assets/css/sass/_fonts.scss"
+			],
+			[
+				"fon",
+				".sass-cache/fd2ad6db4ff60b59bc12190040d6d3395e1f6cd9/_fonts.scssc"
+			],
+			[
+				"scss",
+				"assets/css/sass/style.scss"
+			],
+			[
+				"ind",
+				"html-site/index.html"
+			],
+			[
+				"style.sc",
+				"html-site/assets/css/style.scss"
+			],
+			[
+				"styl",
+				"html-site/assets/css/style.css"
+			],
+			[
+				"css",
+				"css/bootstrap.css"
+			],
+			[
+				"js",
+				"OCS/junk-script.js"
+			],
+			[
+				"ocs",
+				"OCS/assets/css/ocs-style.css"
+			],
+			[
+				"layou",
+				"views/layout.php"
+			],
+			[
+				"mar",
+				"assets/js/marquee.js"
+			],
+			[
+				"ine",
+				"index.html"
+			],
+			[
+				"in",
+				"index_work.html"
+			],
+			[
+				"open",
+				"/C/Users/philip/AppData/Roaming/Sublime Text 2/Packages/User/open_browser.py"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"i",
+				"week_06_files/includes/connection_bad_with_errors_on.inc.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/xampp/htdocs/lectures/ai/mm3323/test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true
+}

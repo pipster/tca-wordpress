@@ -1,6 +1,14 @@
 .main a {
   letter-spacing: 2px;
 }
+
+.navbar.main.navbar-inverse {
+margin-left: -10px;
+ li.dropdown.active a {
+background-color: $black;
+
+ }
+}
 .navbar-inner {
   border: none;
 -webkit-border-radius: 0;

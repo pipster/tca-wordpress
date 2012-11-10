@@ -2,22 +2,27 @@
 	"folders":
 	[
 		{
-			"path": "/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress",
-			"name": "TCA Wordpress",
-         "file_exclude_patterns":[
-            "apple*",
-            "*.psd",
-            "*.ico",
-            "crossdomain.xml",
-            "humans.txt",
-            "robots.txt",
-            "*-workspace"
-         ],
-         "folder_exclude_patterns": [
-            "images",
-            ".sass-cache",
-            "web-fonts"
-         ]
+			"file_exclude_patterns":
+			[
+				"apple*",
+				"*.psd",
+				"*.ico",
+				"crossdomain.xml",
+				"humans.txt",
+				"robots.txt",
+				"*-workspace"
+			],
+			"folder_exclude_patterns":
+			[
+				"images",
+				".sass-cache",
+				"web-fonts"
+			],
+			"name": "TCAa Wordpress",
+			"path": "/Users/phowley/Dropbox/phil-stuff/my-sites/tca-wordpress"
+		},
+		{
+			"path": "/Applications/MAMP/htdocs/mm3304/week-06"
 		}
 	]
 }
